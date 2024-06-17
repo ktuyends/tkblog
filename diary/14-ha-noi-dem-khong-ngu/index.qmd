@@ -1,0 +1,28 @@
+---
+title: "Hà Nội đêm không ngủ"
+subtitle: >
+  Đêm nay, Hà Nội mưa, mưa rơi tí tách tí tách dưới mặt đất, đem toàn bộ căn phòng đều bao phủ bởi một tầng màn mưa bên trong. Trước cửa dưới mái hiên...
+author: Tuyen Kieu
+date: '2022-03-20'
+image: featured.jpg
+categories:
+  - Những câu chuyện đã cũ
+citation: false
+description: ''
+---
+
+<p style = "text-align: center"><img src="./featured.jpg" width=100%></p>
+
+<p style = "text-align: justify">Hà Nội, 22/03/2022</p>
+
+<p style = "text-align: justify">Đêm nay, Hà Nội mưa, mưa rơi tí tách tí tách dưới mặt đất, đem toàn bộ căn phòng đều bao phủ bởi một tầng màn mưa bên trong. Trước cửa dưới mái hiên, tôi ngồi thẫn thờ dựa người vào ghế, lặng nhìn từng hạt mưa rơi, phía dưới ánh đèn vàng.</p>
+
+<p style = "text-align: justify">Bỗng dưng, tiếng chú Hường - chú bảo vệ nhà tôi ở đâu đó vọng lại:</p>
+
+<p style = "text-align: justify"><i>- Chưa ngủ à Tuyến? <br> - Dạ cháu chưa, mưa to quá cháu không ngủ được. Chú chưa ngủ à? <br> - Container của bọn kho bếp nó vừa về, chú ra mở cho bọn nó cái cửa. Đợi bọn nó xuống hàng xong chắc phải 4h sáng, lúc đó chú mới được ngủ. <br>- Mình cười, bảo sao cháu thấy ồn thế. Thế chú ngủ sau nha, cháu rửa mặt xong cũng chuẩn bị đi ngủ đây. </i></p>
+
+<p style = "text-align: justify">Trong mấy chú bảo vệ nhà tôi, có lẽ chú Hường là người mà tôi thấy dễ gần nhất. Có nhiều ngày, đi làm hoặc đi đâu đó về muộn, tôi chưa kịp gọi chú mở cửa thì chú đã bật khỏi giường và chạy ra mở cửa cho tôi, còn không quên bồi thêm một câu chọc tôi: <i>Thằng nào đấy nhờ, tưởng đi chơi quên đường về nhà rồi. Hôm nay lại đi chơi với đứa nào.</i> Dạ, cháu đi hóng gió ấy mà, cháu cũng ước có ai lắm chứ. Haizz, cũng không biết tôi còn ở đây được thêm mấy tháng nữa, cũng sắp hết hợp đồng thuê nhà rồi...</p>
+
+<p style = "text-align: justify">Tôi đóng cửa phòng, sau đó trở lại trên chiếc giường quen thuộc, một chiếc giường hai tầng giống chiếc giường ngày xưa của tôi ở kí túc xá. Pha một tách coffee nóng, bật chiếc đèn vàng và mở một bản nhạc không lời của Yiruma.</p>
+
+<p style = "text-align: justify">Nhà mái tôn, tiếng mưa rơi lộp bộp trên mái nhà làm tôi không ngủ được. Thôi thì lại mở chiếc máy tính, và viết nốt cái chương trình còn đang dang dở...</p>

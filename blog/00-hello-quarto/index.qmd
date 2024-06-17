@@ -1,0 +1,22 @@
+---
+title: 'Hello Quarto!'
+author: Tuyen Kieu
+date: '2024-06-18'
+date-modified: '2024-06-18'
+image: featured.jpg
+categories:
+  - Quarto
+subtitle: >
+  Bài viết này không có nội dung, mình chỉ đang test các cú pháp của Quarto sử dụng cho các bài viết sau này.
+description: ''
+links:
+- icon: journal-text
+  name: Quarto Docs
+  url: https://quarto.org/docs/websites/
+filters:
+   - include-code-files
+code-annotations: below
+df-print: paged
+---
+
+## Goodbye, Hugo Apéro

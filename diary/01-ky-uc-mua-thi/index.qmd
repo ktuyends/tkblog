@@ -1,0 +1,26 @@
+---
+title: 'Ký ức mùa thi'
+subtitle: >
+  Nói chuyện với cậu tớ thấy vui lắm, cậu sống tình cảm và chín chắn hơn tớ bao nhiêu. Tớ thấy mình phải học tập cậu nhiều! Thi xong đại học, tớ trượt còn cậu...
+author: Tuyen Kieu
+date: '2014-09-12'
+image: featured.jpg
+categories:
+  - Những câu chuyện đã cũ
+citation: false
+description: ''
+---
+
+![](./featured.jpg)
+
+<p style = "text-align: justify">Cậu là tên bạn tốt của tớ! Quen cậu như thế nào nhỉ? Đang nhớ lại đây, hồi ấy tớ ấp ủ thi lại đại học, like page Hội ôn thi Đại học khối A trên Fb, hé. Mấy lần up bài tập đều được cậu làm giúp ^_^ xong rùi cậu vô duyên xin nick yahoo với SĐT của tớ chứ, thêm bạn thêm vui mà. Suy nghĩ đầu tiên của tớ về cậu là...Ủa, con trai hả, tưởng nó là con gái chứ =))</p>
+
+<p style = "text-align: justify">Rùi cứ thế tớ và cậu thân nhau hơn qua những tin nhắn trao đổi bài, than thở mùa thi... Cậu giúp đỡ tớ nhiều lắm ấy, cậu là cái chuông báo thức của tớ, sáng nào cũng gọi tớ dậy đi học, hic. Vậy mà tớ vẫn ngủ cố, hôm nào cũng muộn 30 phút, hậu quả bây giờ mấy bạn lớp 13A1 ấy ấn tượng với tớ lắm, rất chăm chỉ đi học nhưng chưa bao giờ đi học đúng giờ :'(</p>
+
+<p style = "text-align: justify">Rùi cậu còn dạy tớ học toán, lý, hóa. Làm đề rùi chữa đề cùng tớ... cái gì cậu cũng giỏi hơn tớ :) rồi còn photo đề cho tớ làm nữa chứ...Nhiều nhiều quá... À cậu còn tặng tớ cái đồng hồ Handmade đẹp ơi là đẹp. Tớ nhớ mới gặp cậu có 4 lần, cậu hiền ơi là hiền, thế mà để quả đầu trọc ko ăn nhập gì với tính cách ấy :)))</p>
+
+<p style = "text-align: justify">Nói chuyện với cậu tớ thấy vui lắm, cậu sống tình cảm và chín chắn hơn tớ bao nhiêu. Tớ thấy mình phải học tập cậu nhiều! Thi xong đại học, tớ trượt còn cậu đỗ. Xin lỗi vì tớ đã ko cố gắng hết mình, tớ đã chưa trân trọng sự giúp đỡ của cậu...Rùi chẳng hiểu sao tớ với cậu cứ xa dần, tớ cảm thấy thế. Bây giờ ít nói chuyện hơn nhỉ. Chắc tại tớ và cậu đều thay đổi và có ít thời gian rảnh hơn trước :'(</p>
+
+<p style = "text-align: justify">Hic, cậu ác quá, tớ vốn dốt văn, ngại viết lách mà :( Đấy, bài cảm nhận hơi ngắn. Tất nhiên còn nhiều điều để nói về cậu hơn như trên kia rất nhiều nhưng viết thế thui. Hehe cậu hãy luôn sống thật vui vẻ nhé, khó khăn cũng hãy cố vượt qua. Tớ tin cậu mà :) Mạnh mẽ mới chính là Tuyến hâm chứ :-P</p>
+
+<p style = "text-align: justify"><i>P/s: Một lá thư mình nhận được từ một người bạn, mình quen qua mạng hồi học lớp 12.</i></p>

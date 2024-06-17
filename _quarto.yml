@@ -1,0 +1,67 @@
+project:
+  type: website
+  preview:
+    port: 2404
+    browser: true
+    watch-inputs: true
+    timeout: 3600
+
+title-prefix: ""
+
+execute: 
+  freeze: auto
+
+website:
+  title: "Tuyen Blog"
+  site-url: https://tuyenkv.netlify.app
+  description: "Life, DA and BI - Sometimes I write something just so that I can go back and read it."
+  favicon: assets/img/favicon.ico
+  twitter-card:
+    creator: "@ktuyends"
+  open-graph: true
+  page-navigation: true
+  back-to-top-navigation: true
+
+  navbar:
+    logo: assets/img/avatar.png
+    tools:
+    - icon: github
+      href: https://github.com/ktuyends/tkblog
+    right:
+      - text: Blog
+        aria-label: "Blog"
+        href: blog/index.qmd
+      - text: Notes
+        aria-label: "Learning By Writing"
+        href: notes/index.qmd
+      - text: My Diary
+        aria-label: "My Diary"
+        href: diary/index.qmd
+  
+  page-footer:  
+    left: >-
+     &#169; 2024 Tuyen Kieu &#8729; Made with [Quarto](https://quarto.org)
+    center: |
+      <a class="link-dark me-1" href="https://github.com/ktuyends" title="Github" target="_blank" rel="noopener">{{< fa brands github >}}</a>
+      <a class="link-dark me-1" href="https://linkedin.com/in/ktuyends" title="LinkedIn" target="_blank" rel="noopener">{{< fa brands linkedin >}}</a>
+      <a class="link-dark me-1" href="https://facebook.com/ktuyends/" title="Facebook" target="_blank" rel="noopener">{{< fa brands facebook >}}</a>
+      <a class="link-dark me-1" href="mailto:ktuyen.ds@gmail.com" title="Mail" target="_blank" rel="noopener">{{< fa envelope >}}</a>
+
+    right: 
+      - text: "Contact"
+        aria-label: "Contact Form"
+        href: "contact.qmd"
+      - text: "License"
+        aria-label: "License Details"
+        href: license.qmd
+      - icon: rss
+        href: blog/index.xml
+
+format: 
+  html:
+    theme: [cosmo, assets/css/theme-light.scss]
+    pagetitle: "{{< meta title >}} | Tuyen's Blog"
+    code-link: true
+    lightbox: true
+    smooth-scroll: true
+    link-external-newwindow: true

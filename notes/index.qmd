@@ -1,0 +1,27 @@
+---
+title: "Learning By Writing"
+description: |
+  My notes about SQL, Power BI and Python for Business Intelligence & Business Analytics.
+# listing: 
+#   id: pypro
+#   fields: [title, date]
+#   contents: 
+#     - "01-pypro/**/index.qmd"
+#   type: table
+#   grid-item-border: false
+#   categories: true
+#   sort: "date desc"
+#   sort-ui: false
+#   filter-ui: false  
+#   feed: true
+citation: false
+toc: false
+comments: false
+title-block-banner: true
+
+header-includes: >
+  <link rel="stylesheet" href="../assets/css/listing-table.css">
+resources:
+  - ../assets/css/listing-table.css 
+
+---
