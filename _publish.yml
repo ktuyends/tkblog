@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 46b71915-6837-4815-aeb6-16fde21714dc
+      url: 'https://tuyenkv.netlify.app'
