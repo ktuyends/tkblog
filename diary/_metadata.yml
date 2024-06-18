@@ -9,9 +9,7 @@ title-block-banner: true
 # license: "CC BY-SA"
 
 # Default for table of contents
-toc: true
-toc-title: Table of contents
-toc-location: right
+toc: false
 
 # Default fields for citation
 citation: true

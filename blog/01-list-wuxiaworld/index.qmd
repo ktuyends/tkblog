@@ -1,0 +1,56 @@
+---
+title: "Danh sách truyện mình từng đọc"
+subtitle: >
+  Ngày trước, mình vốn là một người ít đọc sách. Dù thỉnh thoảng đi dạo nhà sách, thấy cái tiêu đề hay hay là lại ôm một đống mang về. Những cuốn sách đó...
+date: '2020-04-24'
+date-modified: '2024-06-18'
+image: featured.jpg
+description: ''
+toc: false
+citation: false
+---
+
+<p style = "text-align: justify">Ngày trước, mình vốn là một người ít đọc sách. Dù thỉnh thoảng đi dạo nhà sách, thấy cái tiêu đề hay hay là lại ôm một đống mang về. Những cuốn sách đó giờ có lẽ đã bị phủ đầy bụi trong tủ sách. Có một ngày, mình bị thằng bạn mang lệch, mơ mơ màng màng đi vào cái thế giới này lúc nào không hay. Và cứ thế mình đọc đến tận bây giờ, như một thói quen hằng ngày khó bỏ. </p>
+
+| Tên truyện|Số chương|
+|---|:---:|
+|1. Đế Tôn|2921/2921|
+|2. Yêu Thần Ký|496/496|
+|3. Tiên Nghịch|1975/1975|
+|4. Mục Thần Ký |1834/1834|
+|5. Đấu La Đại Lục |517/517|
+|6. Tinh Thần Biến |671/671|
+|7. Lâm Uyên Hành |961/961|
+|8. Vạn Tộc Chi Kiếp |966/966|
+|9. Nhất Thế Chi Tôn |1425/1425|
+|10. Vũ Động Càn Khôn |1309/1309|
+|11. Vũ Thần Chúa Tể |2793|
+|12. Toàn Chức Pháp Sư |3136/3136|
+|13. Vạn Cổ Đệ Nhất Tông |2008/2008|
+|14. Đấu Phá Thương Khung |1641/1641|
+|15. Thiên Đạo Đồ Thư Quán |2264/2264|
+|16. Đại Quản Gia Là Ma Hoàng |770/1312|
+|17. Vũ Luyện Đỉnh Phong |3282/6003|
+|18. Toàn Cầu Cao Võ |1437/1437|
+|19. Nhất Kiếm Độc Tôn |1975|
+|20. Ta Chỉ Muốn An Tĩnh Chơi Game |1900/1900|
+|21. Ta Có Một Thân Bị Động Kỹ |900|
+|22. Cửu Tinh Bá Thể Quyết |4800|
+|23. Dạ Mệnh Danh Thuật |750|
+|24. Tinh Môn |626/626|
+|25. Nhân Đạo Chí Tôn |1494/1494|
+|26. Thâm Không Bỉ Ngạn |1437/1437|
+|27. Thôn Phệ Tinh Không |1485/1485|
+|28. Mink Đường Phố Số 13 |350|
+|29. Ta Thuộc Tính Tu Hành Nhân Sinh |678|
+|30. Cẩu Tại Yêu Võ Loạn Thế Tu Tiên |615| 
+|31. Vừa Thành Tiên Thần, Con Cháu Cầu Ta Xuất Sơn |650|
+|32. Ta Chỉ Muốn An Tĩnh Làm Cẩu Đạo Bên Trong Người |1500|
+|33. Cẩu Thả Tại Nữ Ma Đầu Bên Người Vụng Trộm Tu Luyện|1451|
+|34. Thần Thoại Kỷ Nguyên, Ta Tiến Hóa Thành Hằng Tinh Cấp Cự Thú|1227|
+|35. Theo Trảm Yêu Trừ Ma Bắt Đầu Trường Sinh Bất Tử|427|
+|36. Xích Tâm Tuần Thiên |2903|
+|37. Phổ La Chi Chủ|467|
+|38. Vạn Tướng Chi Vương|845|
+|39. Quang Âm Chi Ngoại|624|
+|***40. Đạp Tinh*** |***4517***|
