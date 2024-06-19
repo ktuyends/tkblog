@@ -2,8 +2,8 @@
 title: "Danh sách truyện mình từng đọc"
 subtitle: >
   Ngày trước, mình vốn là một người ít đọc sách. Dù thỉnh thoảng đi dạo nhà sách, thấy cái tiêu đề hay hay là lại ôm một đống mang về. Những cuốn sách đó...
+author: Tuyen Kieu  
 date: '2020-04-24'
-date-modified: '2024-06-18'
 image: featured.jpg
 description: ''
 toc: false

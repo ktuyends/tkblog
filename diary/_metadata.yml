@@ -12,11 +12,7 @@ title-block-banner: true
 toc: false
 
 # Default fields for citation
-citation: true
-appendix-cite-as: display
-
-# align figures to left
-fig-align: "center"
+citation: false
 
 # Wrap overflow code
 format: 

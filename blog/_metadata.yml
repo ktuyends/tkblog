@@ -17,9 +17,6 @@ toc-location: right
 citation: true
 appendix-cite-as: display
 
-# align figures to left
-fig-align: "center"
-
 # Wrap overflow code
 format: 
   html: 
