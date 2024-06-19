@@ -9,6 +9,7 @@ categories:
   - Thành phố mộng mơ
 citation: false
 description: ''
+draft: true
 ---
 
 <p style="text-align:justify">Nói sao ta, có lẽ phải bắt đầu từ buổi đi ăn sinh nhật tớ. Không biết cậu còn nhớ không, tớ có bảo là bạn tớ dạo này có da có thịt xinh hơn hẳn. Cũng không biết có phải do lâu không gặp không, nhưng mà nhìn cậu xinh hơn thật, lùn lùn đáng yêu nữa. Hôm đấy, tớ còn hỏi cậu đã về đến nhà chưa. Dù lúc ra về còn không lấy xe ra giúp cậu. Bình thường tớ nghĩ là tớ sẽ không hỏi đâu. Bạn cậu chảnh cún mà.</p>
