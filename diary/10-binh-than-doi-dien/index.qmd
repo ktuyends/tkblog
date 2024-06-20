@@ -5,8 +5,6 @@ subtitle: >
 author: Tuyen Kieu
 date: '2020-12-27'
 image: featured.jpg
-categories:
-  - Những câu chuyện đã cũ
 citation: false
 description: ''
 ---

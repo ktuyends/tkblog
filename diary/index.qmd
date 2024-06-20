@@ -1,5 +1,5 @@
 ---
-title: "My Diary"
+title: "Những Câu Chuyện Đã Cũ"
 description: |
   Bình thản đối diện, nhẹ nhàng bước qua, vì những ngày không ra gì cứ dài đằng đẵng.<br>
   Nên chả có gì thì cũng cứ cười một cái, xem ai sợ ai {{< bi heart-fill >}} <br><br>
@@ -10,7 +10,7 @@ listing:
     - "**/index.md"
   sort: "date desc"
   type: default
-  categories: true
+  categories: false
   sort-ui: false
   filter-ui: false
   fields: [title, author, date, image]

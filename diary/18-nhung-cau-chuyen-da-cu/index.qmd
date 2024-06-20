@@ -1,0 +1,14 @@
+---
+title: "Những câu chuyện đã cũ"
+subtitle: >
+  Thấy tháng tư tháng năm đến, thấy nắng chói mắt, thấy bạn bè xung quanh hối hả nhanh chóng, bất giác cũng hối thúc bản thân nhanh theo nhịp của họ, lòng thì mơ hồ do dự, nửa muốn nửa lại không…
+author: Tuyen Kieu
+date: '2024-06-20'
+image: featured.jpg
+citation: false
+description: ''
+---
+
+<p style = "text-align: center"><img src="./featured.jpg" width=100%></p>
+
+<p style="text-align:justify">Hà Nội, 20/06/2024</p>

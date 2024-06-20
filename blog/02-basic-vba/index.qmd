@@ -23,14 +23,14 @@ Về bài viết này, thì đây không phải là một bài viết về lập
 
 ### 1.1. Bắt đầu
 
-Đầu tiên, ta cần phải bật tab _Developer_ bằng cách vào `File -> Options -> Customize Ribbon -> Developer` và ta có kết quả như sau:
+Đầu tiên, ta cần phải bật tab `Developer` bằng cách vào `File -> Options -> Customize Ribbon -> Developer` và ta có kết quả như sau:
 
 ![](developer.png){fig-align="center" width=75%}
 
 Như chúng ta có thể thấy ở phần Code của tab Developer:
 
-- **Visual Basic**: Để vào cửa sổ soạn thảo VBA.
-- **Record Macro**: Để bắt đầu tạo các macro.
+- Visual Basic: Để vào cửa sổ soạn thảo VBA.
+- Record Macro: Để bắt đầu tạo các macro.
 
 Để bắt đầu viết code VBA, ta chọn `Visual Basic` sau đó vào `Insert -> Module`. Ví dụ một chương trình đơn giản:
 
@@ -47,17 +47,19 @@ End Sub
 
 Bây giờ, ta có thể thực hiện các thao tác với Cell, Worksheet,...cho đến khi hoàn thành thì ta chọn `Stop Recording`.
 
-Để xem chương trình được tạo ra cho Macro, ta vào `Developer -> Visual Basic`.
+Để xem chương trình được tạo ra cho Macro, ta vào `Developer -> Visual Basic`
 
 ### 1.3. Tham chiếu tương đối và tuyệt đối
 
-- Khi sử dụng tham chiếu tuyệt đối, Excel sẽ áp dụng Macro đối với các Cells cố định khi thực thi.
-- Khi sử dụng tham chiếu tương đối _(Relative)_, Excel áp dụng Macro dựa vào vị trí của con trỏ chuột.
+Khi sử dụng tham chiếu tuyệt đối, Excel sẽ áp dụng Macro đối với các Cells cố định khi thực thi.
+
+Khi sử dụng tham chiếu tương đối _(Relative)_, Excel áp dụng Macro dựa vào vị trí của con trỏ chuột.
 
 ### 1.4. Subroutines và Functions
 
-- Function sẽ nhận các đầu vào, thực hiện các tính toán và trả về kết quả được tính toán khi gọi hàm.
-- Sub không trả về một kết quả, nó chỉ thực hiện các hoạt động được ghi lại khi chúng ta gọi macros.
+**Function** sẽ nhận các đầu vào, thực hiện các tính toán và trả về kết quả được tính toán khi gọi hàm.
+
+**Sub** không trả về một kết quả, nó chỉ thực hiện các hoạt động được ghi lại khi chúng ta gọi macros.
 
 ### 1.5. Option Explicit
 
@@ -112,7 +114,7 @@ Cú pháp:
 
 <details>
 <summary>
-<b>Notes</b>
+Notes
 </summary>
 
 VBA không phân biệt giữa ký tự in hoa và in thường.
@@ -131,7 +133,9 @@ VBA không phân biệt giữa ký tự in hoa và in thường.
 
 ### 2.3. Sử dụng các hàm Excel trong VBA
 
-Để sử dụng các hàm của Excel trong VBA, chúng ta sử dụng cú pháp: `Application.WorksheetFunction.func_name()`
+Để sử dụng các hàm của Excel trong VBA, chúng ta sử dụng cú pháp:
+
+<p style="text-align:center;">`Application.WorksheetFunction.func_name()`</p>
 
 ### 2.4. Định nghĩa hàm
 
@@ -185,7 +189,7 @@ End Sub
 
 ### 3.1. Các đối tượng trong VBA
 
-<img src="objects.png" class="center-fig" width=85%>
+![](objects.png){fig-align="center" width=85%}
 
 Tập hợp các đối tượng:
 
@@ -205,9 +209,11 @@ Range("B52")
 
 ### 3.2. Phương thức, thuộc tính
 
-- **Thuộc tính**: Các đặc điểm của một đối tượng, ví dụ `Range("B1").Width` mô tả độ rộng của một ô `B1`.
-- **Phương thức**: Các hàm, hành động tác động đến một đối tượng, ví dụ `Range("B1").Clear` thực hiện hành động xóa nội dung trong ô `B1`.
-- **Events** (sự kiện): Mô tả phản ứng của một đối tượng đối với một hành động, ví dụ như khi ta click chuột hoặc mở một workbook,...
+**Thuộc tính**: Các đặc điểm của một đối tượng, ví dụ `Range("B1").Width` mô tả độ rộng của một ô `B1`.
+
+**Phương thức**: Các hàm, hành động tác động đến một đối tượng, ví dụ `Range("B1").Clear` thực hiện hành động xóa nội dung trong ô `B1`.
+
+**Events** (sự kiện): Mô tả phản ứng của một đối tượng đối với một hành động, ví dụ như khi ta click chuột hoặc mở một workbook,...
 
 **Một số phương thức, thuộc tính**
 
@@ -221,7 +227,7 @@ Range("B52")
 
 ### 3.3. Làm việc với Range
 
-**Lựa chọn**
+**Lựa chọn một `Range`**
 
 ```vb
 ' Tham chiếu
@@ -257,7 +263,7 @@ Selection.Range("B2")
 
 <details>
 <summary>
-<b>Select và Activate</b>
+Select và Activate
 </summary>
 
 - Select là việc lựa chọn một hoặc nhiều cell, worksheet,...
@@ -564,7 +570,7 @@ Theo mặc định, khi sử dụng `ReDim` để thay đổi kích thước m�
 
 ## 6. Làm việc với string
 
-Một số hàm hay sử dụng:
+**Một số hàm hay sử dụng**
 
 | Excel              | VBA                |
 | ------------------ | ------------------ |
@@ -671,7 +677,7 @@ wb.Close
 
 <details>
 <summary>
-<b>ThisWorbook và ActiveWorkbook</b>
+ThisWorbook và ActiveWorkbook
 </summary>
 
 - ThisWorkbook là nơi tạo Macro
@@ -696,7 +702,7 @@ Workbooks.Open FileName
 
 Cú pháp:
 
-`InputBox(prompt, [Title], [Default], [Xpos], [YPos], [HelpFile], [Context], [Type])`
+<p style="text-align:center;">`InputBox(prompt, [Title], [Default], [Xpos], [YPos], [HelpFile], [Context], [Type])`</p>
 
 Trong đó:
 
@@ -723,7 +729,7 @@ End Sub
 
 Cú pháp:
 
-`MsgBox("Prompt",[Buttons],[Title],[Helpfile],[Context])`
+<p style="text-align:center;">`MsgBox("Prompt",[Buttons],[Title],[Helpfile],[Context])`</p>
 
 Một số giá trị mà khi chúng ta click vào buttons sẽ trả về:
 
@@ -739,13 +745,13 @@ Một số giá trị mà khi chúng ta click vào buttons sẽ trả về:
 
 Để bắt đầu tạo user forms, ta vào `Insert -> UserForm`, sau đó ta sẽ có một giao diện như này:
 
-<img src="userform.png" width=80% class="center-fig">
+![](userform.png){fig-align="center" width=80%}
 
 Tiếp theo chúng ta sẽ kéo các công cụ bên trong Toolbox vào phần UserForm để thiết kế giao diện người dùng. Với mỗi Control chúng ta có một bảng thuộc tính Properties tương ứng.
 
 Ví dụ một user form đơn giản sử dụng Label, Text Box, Frame, OptionButton và CommandBotton.
 
-<img src="userform-examp.png" width=60% class="center-fig">
+![](userform-examp.png){fig-align="center" width=60%}
 
 Mặc dù giao diện đã hình thành, nhưng nó lại không thể thực hiện các hoạt động. Vì vậy ta cần phải lập trình cho các controls. Ta click vào các controls để vào phần lập trình tương ứng với control đó.
 
@@ -776,7 +782,7 @@ End Sub
 
 Trong Case study này, chúng ta sẽ đi xây dựng một User Form cho phép người dùng sử dụng tỷ giá hối đoái thực tế ở một thời điểm xác định để chuyển đổi tiền tệ từ đơn vị này sang đơn vị khác. Ngoài ra, nó còn cho phép người dùng xem biểu đồ tỷ giá hối đoái trong vòng 30 ngày gần nhất với ngày được xác định.
 
-Quy trình cơ bản:
+**Quy trình cơ bản:**
 
 - Xác định các thành phần của user form
 - Lấy thông tin về tỷ giá hối đoái dựa vào ngày được nhập vào form từ Website
@@ -786,7 +792,7 @@ Quy trình cơ bản:
 
 ### 9.2. Xác định các thành phần của user form
 
-<img src="userform1.png" width=60% class="center-fig">
+![](userform1.png){fig-align="center" width=60%}
 
 ### 9.3. Lấy dữ liệu từ internet
 
@@ -1201,8 +1207,6 @@ End Sub
 
 ### 9.7. Kết quả
 
-Cuối cùng thì, đây là file kết quả: [Currency Converter](currency-converter.xlsm). Còn dưới đây là một ví dụ khi chạy chương trình:
+Cuối cùng thì, đây là file kết quả - [Currency Converter](currency-converter.xlsm). Ví dụ khi chạy chương trình:
 
-<img src="plot-last-30days.png" class="center-fig">
-
----
+![](plot-last-30days.png){fig-align="center" width=85%}
