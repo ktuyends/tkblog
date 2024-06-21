@@ -1,0 +1,28 @@
+---
+title: "999 lá thư gửi cho chính mình"
+subtitle: >
+  Ngày tạm biệt năm ấy tôi đã nghĩ sẽ hoảng hốt biết mấy nếu một ngày nào đó mình quên đi những năm tháng ấy, những người bạn ấy, những kỷ niệm ấy...
+author: Tuyen Kieu
+date: '2024-04-24'
+image: featured.jpg
+citation: false
+categories:
+  - My Secret Diary
+description: ''
+---
+
+---
+
+<p style="text-align:justify"><i>Hà Nội, ngày tháng năm</i></p>
+
+<p style="text-align:justify">Ngày tạm biệt năm ấy tôi đã nghĩ sẽ hoảng hốt biết mấy nếu một ngày nào đó mình quên đi những năm tháng ấy, những người bạn ấy, những kỷ niệm ấy...</p>
+
+---
+
+<p style="text-align:justify"><i>Hà Nội, 21/06/2024</i></p>
+
+<p style="text-align:justify">Một sáng mưa và nắng, đạp xe giữa phố phường tự nhiên tự hỏi rồi thì chúng ta xây những bức tường lên để làm gì. Rồi tự trả lời có lẽ là để tìm kiếm ai đó đủ dũng khí đạp đổ bức tường ấy.</p>
+
+<p style="text-align:justify">Đôi khi tôi cũng tự hỏi tất những gì mình đang làm có ý nghĩa là gì. Nếu không phải là gửi đi những tín hiệu và kiên nhẫn chờ đợi sự đáp lời từ vũ trụ lặng yên ngoài kia vào một ngày nào đó...</p>
+
+---

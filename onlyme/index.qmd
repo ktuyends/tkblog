@@ -1,8 +1,8 @@
 ---
-title: "Sample Post"
+title: "Only Me"
 description: |
-  This is my blog where I practice sharing my curiosity about SQL, Power BI and Python.<br>
-  It includes notes and tutorials for my future self and hopefully also for you.<br><br>
+  Trong những lúc chậm lại, bạn đã nghĩ đến những điều gì?<br>
+  Và khi ấy bạn mỉm cười, hay lại thở dài, hay là lặng người lau nước mắt?<br><br>
 listing: 
   contents: 
     - "**/index.qmd"

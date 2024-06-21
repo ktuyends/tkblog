@@ -66,3 +66,4 @@ format:
     smooth-scroll: true
     link-external-newwindow: true
     highlight-style: arrow
+    syntax-definitions: [assets/xml/dax.xml]

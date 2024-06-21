@@ -1,8 +1,8 @@
 ---
 title: 'Hello Quarto!'
 author: Tuyen Kieu
-date: '2024-06-18'
-date-modified: '2024-06-18'
+date: '2024-04-01'
+date-modified: '2024-04-01'
 image: featured.jpg
 categories:
   - Quarto
@@ -19,4 +19,4 @@ code-annotations: below
 df-print: paged
 ---
 
-### 
+### R code
