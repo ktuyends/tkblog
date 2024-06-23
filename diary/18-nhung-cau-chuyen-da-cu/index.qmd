@@ -11,4 +11,5 @@ description: ''
 
 <p style = "text-align: center"><img src="./featured.jpg" width=100%></p>
 
-<p style="text-align:justify">Hà Nội, 20/06/2024</p>
+<p style="text-align:justify">Hà Nội, 24/06/2024</p>
+

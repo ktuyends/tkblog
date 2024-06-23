@@ -2,18 +2,40 @@
 title: "Learning By Writing"
 description: |
   My notes about SQL, Power BI and Python for Business Intelligence & Business Analytics.
-# listing: 
-#   id: pypro
-#   fields: [title, date]
-#   contents: 
-#     - "01-pypro/**/index.qmd"
-#   type: table
-#   grid-item-border: false
-#   categories: true
-#   sort: "date desc"
-#   sort-ui: false
-#   filter-ui: false  
-#   feed: true
+listing: 
+  - id: git-bash
+    fields: [title, date]
+    contents: 
+      - "00-git-bash/**/index.qmd"
+    type: table
+    categories: true
+    sort: "date"
+    sort-ui: false
+    filter-ui: false  
+  
+  - id: pypro
+    fields: [title, date]
+    contents: 
+      - "01-pypro/**/index.qmd"
+    type: table
+    categories: true
+    sort: "date"
+    sort-ui: false
+    filter-ui: false  
+    table-hover: true
+
+  - id: sql
+    fields: [title, date]
+    contents: 
+      - "02-sql4da/**/index.qmd"
+    type: table
+    categories: true
+    sort: "date"
+    sort-ui: false
+    filter-ui: false  
+    table-hover: true
+
+feed: true
 citation: false
 toc: false
 comments: false
@@ -25,3 +47,18 @@ resources:
   - ../assets/css/listing-table.css 
 
 ---
+
+### Git and Bash
+
+::: {#git-bash}
+:::
+
+### Python Programming
+
+::: {#pypro}
+:::
+
+### SQL Basics
+
+::: {#sql}
+:::

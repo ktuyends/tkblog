@@ -19,4 +19,79 @@ code-annotations: below
 df-print: paged
 ---
 
-### R code
+## 1. Basic Markdown
+
+### 1.1. Header
+
+```markdown
+# h1 Heading
+## h2 Heading
+### h3 Heading
+#### h4 Heading
+##### h5 Heading
+###### h6 Heading
+```
+
+### 1.2. Comments
+
+```markdown
+<!--
+This is a comment
+-->
+```
+
+### 1.3. Format
+
+```markdown
+*rendered as italicized text*
+**rendered as bold text**
+***bold and italics***
+
+~~Strike through this text.~~
+
+superscript^2^ / subscript~2~
+```
+
+### 1.4. Blockquotes
+
+### 1.5. List
+
+### 1.6. Code
+
+### 1.7. Math
+
+When $a \ne 0$, there are two solutions to \\(ax^2 + bx + c = 0\\) and they are
+
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+
+If I have a random \$ and another \$ in my text.
+
+$$sd = \sqrt{\frac{\sum_{i=0}^{n}{(x_i-\bar x)^2}}{(n-1)} }$$
+
+### 1.8. Link
+
+### 1.9. Table
+
+### 1.10. Image
+
+### 1.11. Shortcodes
+
+## 2. Citations & Footnotes
+
+### 2.1. Footnotes 
+
+### 2.2. Citations 
+
+## 3. Cross References
+
+## 4. Execution Code
+
+### 4.1. Output Options
+
+### 4.2. Figure Options
+
+### 4.3. Inline Code
+
+## 5. Article Layout
+
+## 6. Scholarly Writing

@@ -53,4 +53,4 @@ citation: false
 |37. Phổ La Chi Chủ|467|
 |38. Vạn Tướng Chi Vương|845|
 |39. Quang Âm Chi Ngoại|624|
-|***40. Đạp Tinh*** |***4517***|
+|***40. Đạp Tinh*** |***4672***|
