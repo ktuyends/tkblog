@@ -24,17 +24,6 @@ listing:
     filter-ui: false  
     table-hover: true
 
-  - id: sql
-    fields: [title, date]
-    contents: 
-      - "02-sql4da/**/index.qmd"
-    type: table
-    categories: true
-    sort: "date"
-    sort-ui: false
-    filter-ui: false  
-    table-hover: true
-
 feed: true
 citation: false
 toc: false
@@ -56,9 +45,4 @@ resources:
 ### Python Programming
 
 ::: {#pypro}
-:::
-
-### SQL Basics
-
-::: {#sql}
 :::
