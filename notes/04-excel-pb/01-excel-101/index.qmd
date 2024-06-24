@@ -1,11 +1,11 @@
 ---
-title: 'Làm quen với Git'
+title: 'Excel 101'
 author: Tuyen Kieu
-date: '2024-06-23'
-date-modified: '2024-06-23'
+date: '2024-06-24'
+date-modified: '2024-06-24'
 image: featured.jpg
 categories:
-  - Git and Bash
+  - Excel
 description: ''
 filters:
    - include-code-files

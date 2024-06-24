@@ -12,11 +12,23 @@ listing:
     sort: "date"
     sort-ui: false
     filter-ui: false  
-  
+    table-hover: true
+      
   - id: pypro
     fields: [title, date]
     contents: 
       - "01-pypro/**/index.qmd"
+    type: table
+    categories: true
+    sort: "date"
+    sort-ui: false
+    filter-ui: false  
+    table-hover: true
+
+  - id: powerbi
+    fields: [title, date]
+    contents: 
+      - "04-excel-pb/**/index.qmd"
     type: table
     categories: true
     sort: "date"
@@ -45,4 +57,9 @@ resources:
 ### Python Programming
 
 ::: {#pypro}
+:::
+
+### Excel - Power BI
+
+::: {#powerbi}
 :::

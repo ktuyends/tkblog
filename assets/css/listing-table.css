@@ -52,3 +52,7 @@
   font-size: 1.1rem;
   color:#6a2d0a;
 }
+
+.table {
+  table-layout: fixed;
+}
