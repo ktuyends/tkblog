@@ -3,13 +3,19 @@ title: "Những câu chuyện đã cũ"
 subtitle: >
   Thấy tháng tư tháng năm đến, thấy nắng chói mắt, thấy bạn bè xung quanh hối hả nhanh chóng, bất giác cũng hối thúc bản thân nhanh theo nhịp của họ, lòng thì mơ hồ do dự, nửa muốn nửa lại không…
 author: Tuyen Kieu
-date: '2024-06-20'
+date: '2024-06-25'
 image: featured.jpg
 citation: false
 description: ''
 ---
 
-<p style = "text-align: center"><img src="./featured.jpg" width=100%></p>
+<p style="text-align:justify">Hà Nội, 25/06/2024</p>
 
-<p style="text-align:justify">Hà Nội, 24/06/2024</p>
+---
+
+<p style="text-align:justify">Bao lâu rồi mình chưa viết gì nhỉ, không nhớ nữa, chỉ nhớ rất nhiều lần nghĩ muốn đặt bút viết một cái gì đó. Ừm...cũng chỉ là nghĩ thôi rồi lại phải quay trở về với những người anh em Lost Ark. Có đôi lúc, tôi hay nói với mấy thằng bạn, nếu một ngày nào đó tao rời đi, chắc tao sẽ hét lớn với cả thế giới này rằng:</p>
+
+> "I'm free, no more daily, no more deadline and no more jail god"
+
+<p style="text-align:justify"></p>
 

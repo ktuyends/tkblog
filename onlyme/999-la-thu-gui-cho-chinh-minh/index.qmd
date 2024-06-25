@@ -22,7 +22,6 @@ description: ''
 
 :::
 
-
 ::: {.callout}
 ## _Day 2_
 <p></p>
@@ -37,22 +36,8 @@ description: ''
 
 :::
 
-
 ::: {.callout}
 ## _Day 3_
-
-<p></p>
-
-<p style="text-align:justify">Một sáng mưa và nắng, đạp xe giữa phố phường tự nhiên tự hỏi rồi thì chúng ta xây những bức tường lên để làm gì. Rồi tự trả lời có lẽ là để tìm kiếm ai đó đủ dũng khí đạp đổ bức tường ấy.</p>
-
-<p style="text-align:justify">Đôi khi mình cũng tự hỏi tất những gì mình đang làm có ý nghĩa gì. Nếu không phải là gửi đi những tín hiệu và kiên nhẫn chờ đợi sự đáp lời từ vũ trụ lặng yên ngoài kia vào một ngày nào đó...</p>
-
-<p style="text-align:right"><i>- HN, 22/06/2024 -</i></p>
-
-:::
-
-::: {.callout}
-## _Day 4_
 
 <p></p>
 
@@ -64,7 +49,7 @@ description: ''
 :::
 
 ::: {.callout}
-## _Day 5_
+## _Day 4_
 
 <p></p>
 
@@ -72,7 +57,16 @@ description: ''
 
 <p style="text-align:justify">Hôm nay chắc mình sẽ ngủ luôn trên văn phòng. Những ngày tháng này cảm thấy thời gian không bao giờ là đủ. Thật hoài niệm những ngày còn đi học, mọi thứ đều có đề cương, cái gì khó có thầy cô chỉ. Ra đời, rất nhiều chuyện phải tự mình tìm kiếm đáp án. Nhiều chuyện không muốn từ bỏ lại không biết phải làm thế nào. Yên bình có khó vậy sao, đã bao lâu không có người gọi mình là Peace rồi nhỉ?</p>
 
-<p style="text-align:right"><i>- HN, 25/06/2024 -</i></p>
+<p style="text-align:right"><i>- HN, 24/06/2024 -</i></p>
+:::
+
+::: {.callout}
+## _Day 5_
+
+<p style="text-align:justify">Change is not always easy and it's not always simple, but with enough dedication, any habit can be reshaped. So, if you really want it, becoming the best version of yourself, get up today and start working on it. I promise you'll get there.</p>
+
+<p style="text-align:right"><i>- Nwai Hadaki -</i></p>
+
 :::
 
 ::: {.callout}
@@ -80,7 +74,12 @@ description: ''
 
 <p></p>
 
-<p style="text-align:justify">Change is not always easy and it's not always simple, but with enough dedication, any habit can be reshaped. So, if you really want it, becoming the best version of yourself, get up today and start working on it. I promise you'll get there.</p>
+<p style="text-align:justify">Một sáng mưa và nắng, đạp xe giữa phố phường tự nhiên tự hỏi rồi thì chúng ta xây những bức tường lên để làm gì. Rồi tự trả lời có lẽ là để tìm kiếm ai đó đủ dũng khí đạp đổ bức tường ấy.</p>
 
-<p style="text-align:right"><i>- Nwai Hadaki -</i></p>
+<p style="text-align:justify">Đôi khi mình cũng tự hỏi tất những gì mình đang làm có ý nghĩa gì. Nếu không phải là gửi đi những tín hiệu và kiên nhẫn chờ đợi sự đáp lời từ vũ trụ lặng yên ngoài kia vào một ngày nào đó...</p>
+
+<p style="text-align:justify">Haizz, than vãn mấy ngày nay vậy đủ rồi. Di chuyển thôi mấy ông, còn quá nhiều việc cần phải làm đang đợi mình đi hoàn thành. Bố mẹ thì mỗi năm lại già thêm một chút, thời gian chẳng đợi mình.</p>
+
+<p style="text-align:right"><i>- HN, 25/06/2024 -</i></p>
+
 :::
