@@ -63,6 +63,8 @@ description: ''
 ::: {.callout}
 ## _Day 5_
 
+<p></p>
+
 <p style="text-align:justify">Change is not always easy and it's not always simple, but with enough dedication, any habit can be reshaped. So, if you really want it, becoming the best version of yourself, get up today and start working on it. I promise you'll get there.</p>
 
 <p style="text-align:right"><i>- Nwai Hadaki -</i></p>
