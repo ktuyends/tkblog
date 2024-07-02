@@ -12,7 +12,7 @@ description: ''
 ---
 
 ::: {.callout}
-## _Day 1_
+## _**Day 1**_
 
 <p></p>
 
@@ -23,7 +23,7 @@ description: ''
 :::
 
 ::: {.callout}
-## _Day 2_
+## _**Day 2**_
 <p></p>
 
 <p style="text-align:justify">Sometimes, the people we like don’t like us back, and it’s painful, but there’s nothing we can do about it.</p>
@@ -37,7 +37,7 @@ description: ''
 :::
 
 ::: {.callout}
-## _Day 3_
+## _**Day 3**_
 
 <p></p>
 
@@ -49,7 +49,7 @@ description: ''
 :::
 
 ::: {.callout}
-## _Day 4_
+## _**Day 4**_
 
 <p></p>
 
@@ -61,7 +61,7 @@ description: ''
 :::
 
 ::: {.callout}
-## _Day 5_
+## _**Day 5**_
 
 <p></p>
 
@@ -72,7 +72,7 @@ description: ''
 :::
 
 ::: {.callout}
-## _Day 6_
+## _**Day 6**_
 
 <p></p>
 

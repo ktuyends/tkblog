@@ -1,0 +1,177 @@
+---
+title: "Learning Resources"
+subtitle: >
+  This is a place where I share my curiosity about Python, Power BI and Data Analytics. It includes resources for my future self and hopefully also for you.
+author: Tuyen Kieu
+date: '2024-06-30'
+image: featured.jpg
+citation: false
+categories:
+  - Only me
+description: ''
+---
+
+<p>This is a place where I share my curiosity about Python, Power BI and Data Analytics. It includes resources for my future self and hopefully also for you.</p>
+
+## Tools
+
+::: {.callout}
+## _**Excel**_
+
+<p></p>
+
+||
+|---|
+|1. [Building Interactive Dashboards in Microsoft 365 Excel](https://learning.oreilly.com/library/view/building-interactive-dashboards/9781803237299/)|
+|2. [Master Data Cleaning Essentials on Excel](https://www.youtube.com/watch?v=jxq4-KSB_OA&t=15s)|
+|3. [Modern Data Analytics in Excel](https://learning.oreilly.com/library/view/modern-data-analytics/9781098148812/)|
+|4. [Pivot Table Design Tips](https://www.youtube.com/watch?v=2ZHOtegqtnc)|
+|5. [Make Your Data Speak](https://learning.oreilly.com/library/view/make-your-data/9781484289426/)|
+|6. [Google Sheets](https://www.youtube.com/watch?v=N2opj8XzYBY)|
+
+:::
+
+::: {.callout}
+## _**Structured Query Language**_
+
+<p></p>
+
+||
+|---|
+|1. [SQL Tutorial](https://datalemur.com/sql-tutorial)
+|2. [Practical SQL](https://learning.oreilly.com/library/view/practical-sql-2nd/9781098129866/)|
+|3. [Data Wrangling with SQL](https://learning.oreilly.com/library/view/data-wrangling-with/9781837630028/)|
+
+:::
+
+::: {.callout}
+## _**Git and VS Code**_
+
+<p></p>
+
+||
+|---|
+|1. [Learning Git](https://learning.oreilly.com/library/view/learning-git/9781098133900/)|
+|2. [Dave Ebbelaar](https://www.youtube.com/@daveebbelaar/videos)|
+
+:::
+
+::: {.callout}
+## _**Python Programming**_
+
+<p></p>
+
+||
+|---|
+|1. [Python Tools for Scientists](https://learning.oreilly.com/library/view/python-tools-for/9781098156688/)|
+|2. [Python Crash Course](https://learning.oreilly.com/library/view/python-crash-course/9781098156664/)|
+|3. [Mastering Python](https://learning.oreilly.com/library/view/mastering-python/9781800207721/)|
+
+:::
+
+::: {.callout}
+## _**Python for Data Analysis**_
+
+<p></p>
+
+||
+|---|
+|1. [Hands-On Data Preprocessing in Python](https://learning.oreilly.com/library/view/hands-on-data-preprocessing/9781801072137/)|
+|2. [Pandas for Everyone](https://learning.oreilly.com/library/view/pandas-for-everyone/9780137891146/)|
+
+:::
+
+## Power BI
+
+::: {.callout}
+## _**M - Power Query**_
+
+<p></p>
+
+||
+|---|
+|1. [Power Query for Power BI and Excel](https://learning.oreilly.com/library/view/power-query-for/9781430266921/)|
+|2. [The Definitive Guide to Power Query (M)](https://learning.oreilly.com/library/view/the-definitive-guide/9781835089729/)|
+
+:::
+
+::: {.callout}
+## _**DAX - Data Modeling**_
+
+<p></p>
+
+||
+|---|
+||
+
+:::
+
+::: {.callout}
+## _**Power BI**_
+
+<p></p>
+
+||
+|---|
+||
+
+:::
+
+## Mathematics
+
+::: {.callout}
+
+||
+|---|
+||
+
+:::
+
+## Data Visualization
+
+::: {.callout}
+## _**Power BI**_
+
+<p></p>
+
+||
+|---|
+||
+
+:::
+
+## Data Analytics
+
+## Domain Knowledge
+
+## Certificates
+
+::: {.callout}
+
+||
+|---|
+|1. [Microsoft Power BI Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/microsoft-power-bi-data-analyst)|
+
+:::
+
+## Interview
+
+::: {.callout}
+
+||
+|---|
+|1. [Ace the Data Science Interview](https://www.acethedatascienceinterview.com/)|
+|2. [Cracking the Data Science Interview](https://learning.oreilly.com/library/view/cracking-the-data/9781805120506/)|
+
+:::
+
+## Others
+
+::: {.callout}
+
+||
+|---|
+|1. [Learn Microsoft Office 2021](https://learning.oreilly.com/library/view/learn-microsoft-office/9781803239736/)|
+|2. [Microsoft PowerPoint Best Practices, Tips, and Techniques](https://learning.oreilly.com/library/view/microsoft-powerpoint-best/9781839215339/)|
+
+:::
