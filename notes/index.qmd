@@ -1,65 +1,24 @@
 ---
 title: "Learning By Writing"
-description: |
+subtitle: >
   My notes about SQL, Power BI and Python for Business Intelligence & Business Analytics.
-listing: 
-  - id: git-bash
-    fields: [title, date]
-    contents: 
-      - "00-git-bash/**/index.qmd"
-    type: table
-    categories: true
-    sort: "date"
-    sort-ui: false
-    filter-ui: false  
-    table-hover: true
-      
-  - id: pypro
-    fields: [title, date]
-    contents: 
-      - "01-pypro/**/index.qmd"
-    type: table
-    categories: true
-    sort: "date"
-    sort-ui: false
-    filter-ui: false  
-    table-hover: true
-
-  - id: powerbi
-    fields: [title, date]
-    contents: 
-      - "04-excel-pb/**/index.qmd"
-    type: table
-    categories: true
-    sort: "date"
-    sort-ui: false
-    filter-ui: false  
-    table-hover: true
-
-feed: true
+author: Tuyen Kieu
+date-modified: '2024-07-03'
+image: featured.jpg
 citation: false
-toc: false
-comments: false
-title-block-banner: true
-
-header-includes: >
-  <link rel="stylesheet" href="../assets/css/listing-table.css">
-resources:
-  - ../assets/css/listing-table.css 
-
+description: ''
 ---
 
-### Git and Bash
+This is a place where I share some of my notes about SQL, Power BI and Python for Business Intelligence and Business Analytics.
 
-::: {#git-bash}
+## Tools
+
+::: {.callout}
+## _**Excel**_
+
+||
+|---|
+|1. [Excel 101](excel/01-excel-101/)|
+
 :::
 
-### Python Programming
-
-::: {#pypro}
-:::
-
-### Excel - Power BI
-
-::: {#powerbi}
-:::

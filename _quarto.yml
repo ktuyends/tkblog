@@ -36,7 +36,7 @@ website:
         href: notes/index.qmd
       - text: Resources
         aria-label: "Learning Resources"
-        href: onlyme/learning-resources/index.qmd
+        href: notes/learning-resources/index.qmd
       - text: My Diary
         aria-label: "My Diary"
         href: diary/index.qmd

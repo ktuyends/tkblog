@@ -1,13 +1,11 @@
 ---
 title: "Learning Resources"
 subtitle: >
-  This is a place where I share my curiosity about Python, Power BI and Data Analytics. It includes resources for my future self and hopefully also for you.
+  This is a place where I share my curiosity about Python, Power BI and Data Analytics.
 author: Tuyen Kieu
 date: '2024-06-30'
 image: featured.jpg
 citation: false
-categories:
-  - Only me
 description: ''
 ---
 
@@ -17,8 +15,6 @@ description: ''
 
 ::: {.callout}
 ## _**Excel**_
-
-<p></p>
 
 ||
 |---|
@@ -34,8 +30,6 @@ description: ''
 ::: {.callout}
 ## _**Structured Query Language**_
 
-<p></p>
-
 ||
 |---|
 |1. [SQL Tutorial](https://datalemur.com/sql-tutorial)
@@ -47,8 +41,6 @@ description: ''
 ::: {.callout}
 ## _**Git and VS Code**_
 
-<p></p>
-
 ||
 |---|
 |1. [Learning Git](https://learning.oreilly.com/library/view/learning-git/9781098133900/)|
@@ -58,8 +50,6 @@ description: ''
 
 ::: {.callout}
 ## _**Python Programming**_
-
-<p></p>
 
 ||
 |---|
@@ -71,8 +61,6 @@ description: ''
 
 ::: {.callout}
 ## _**Python for Data Analysis**_
-
-<p></p>
 
 ||
 |---|
@@ -86,8 +74,6 @@ description: ''
 ::: {.callout}
 ## _**M - Power Query**_
 
-<p></p>
-
 ||
 |---|
 |1. [Power Query for Power BI and Excel](https://learning.oreilly.com/library/view/power-query-for/9781430266921/)|
@@ -98,8 +84,6 @@ description: ''
 ::: {.callout}
 ## _**DAX - Data Modeling**_
 
-<p></p>
-
 ||
 |---|
 ||
@@ -108,8 +92,6 @@ description: ''
 
 ::: {.callout}
 ## _**Power BI**_
-
-<p></p>
 
 ||
 |---|
@@ -131,8 +113,6 @@ description: ''
 
 ::: {.callout}
 ## _**Power BI**_
-
-<p></p>
 
 ||
 |---|
