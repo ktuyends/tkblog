@@ -13,12 +13,16 @@ This is a place where I share some of my notes about SQL, Power BI and Python fo
 
 ## Tools
 
-::: {.callout}
-## _**Excel**_
+## Power BI
 
-||
-|---|
-|1. [Excel 101](excel/01-excel-101/)|
+## Mathematics
 
-:::
+## Data Visualization
 
+## Data Analytics
+
+## Domain Knowledge
+
+## Interview
+
+## Others
