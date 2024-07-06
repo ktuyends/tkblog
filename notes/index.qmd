@@ -15,8 +15,6 @@ This is a place where I share some of my notes about SQL, Power BI and Python fo
 
 ## Power BI
 
-## Mathematics
-
 ## Data Visualization
 
 ## Data Analytics

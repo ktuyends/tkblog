@@ -24,6 +24,7 @@ description: ''
 |4. [Pivot Table Design Tips](https://www.youtube.com/watch?v=2ZHOtegqtnc)|
 |5. [Make Your Data Speak](https://learning.oreilly.com/library/view/make-your-data/9781484289426/)|
 |6. [Google Sheets](https://www.youtube.com/watch?v=N2opj8XzYBY)|
+|7. [AI and Business Rule Engines for Excel Power Users](https://learning.oreilly.com/library/view/ai-and-business/9781804619544/)|
 
 :::
 
@@ -53,9 +54,10 @@ description: ''
 
 ||
 |---|
-|1. [Python Tools for Scientists](https://learning.oreilly.com/library/view/python-tools-for/9781098156688/)|
+|1. [Python How-To](https://learning.oreilly.com/library/view/python-how-to/9781617299742/)|
 |2. [Python Crash Course](https://learning.oreilly.com/library/view/python-crash-course/9781098156664/)|
 |3. [Mastering Python](https://learning.oreilly.com/library/view/mastering-python/9781800207721/)|
+|4. [Python Tools for Scientists](https://learning.oreilly.com/library/view/python-tools-for/9781098156688/)|
 
 :::
 
@@ -76,8 +78,9 @@ description: ''
 
 ||
 |---|
-|1. [Power Query for Power BI and Excel](https://learning.oreilly.com/library/view/power-query-for/9781430266921/)|
-|2. [The Definitive Guide to Power Query (M)](https://learning.oreilly.com/library/view/the-definitive-guide/9781835089729/)|
+|1. [Data Cleaning with Power BI](https://learning.oreilly.com/library/view/data-cleaning-with/9781805126409/)|
+|2. [Power Query for Power BI and Excel](https://learning.oreilly.com/library/view/power-query-for/9781430266921/)|
+|3. [The Definitive Guide to Power Query (M)](https://learning.oreilly.com/library/view/the-definitive-guide/9781835089729/)|
 
 :::
 
@@ -86,7 +89,10 @@ description: ''
 
 ||
 |---|
-||
+|1. [Supercharge Power BI](https://www.amazon.com/Supercharge-Power-BI-Better-Learn/dp/1615470697/)|
+|2. [Extreme DAX](https://learning.oreilly.com/library/view/extreme-dax/9781801078511/)|
+|3. [Data Modeling with Microsoft Power BI](https://learning.oreilly.com/library/view/data-modeling-with/9781098148546/)|
+|4. [Expert Data Modeling with Power BI](https://learning.oreilly.com/library/view/expert-data-modeling/9781803246246/)|
 
 :::
 
@@ -95,7 +101,8 @@ description: ''
 
 ||
 |---|
-||
+|1. [Learn Power BI](https://learning.oreilly.com/library/view/learn-power-bi/9781801811958/)|
+|2. [Mastering Microsoft Power BI](https://learning.oreilly.com/library/view/mastering-microsoft-power/9781801811484/)|
 
 :::
 
@@ -105,32 +112,142 @@ description: ''
 
 ||
 |---|
-||
+|1. [Essential Math for Data Science](https://learning.oreilly.com/library/view/essential-math-for/9781098102920/)|
+|2. [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)|
+|3. [The Essential Machine Learning Foundations](https://learning.oreilly.com/course/the-essential-machine/9780137903245/)|
 
 :::
 
 ## Data Visualization
 
 ::: {.callout}
-## _**Power BI**_
+## _**Fundamentals of DataViz**_
 
 ||
 |---|
+|1. [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)|
+|2. [Good Charts, Updated and Expanded](https://learning.oreilly.com/library/view/good-charts-updated/9781647825140/)|
+|3. [Everyday Data Visualization](https://learning.oreilly.com/library/view/everyday-data-visualization/9781633438408/)|
+
+:::
+
+::: {.callout}
+## _**DataViz**_
+
 ||
+|---|
+|1. [Tableau Strategies](https://learning.oreilly.com/library/view/tableau-strategies/9781492080077/)|
+|2. [Data Visualization with Microsoft Power BI](https://learning.oreilly.com/library/view/data-visualization-with/9781098152772/)|
+|3. [Data Storytelling with Google Looker Studio](https://learning.oreilly.com/library/view/data-storytelling-with/9781800568761/)|
+
+
+:::
+
+::: {.callout}
+## _**Storytelling**_
+
+||
+|---|
+|1. [Storytelling with Data](https://learning.oreilly.com/library/view/storytelling-with-data/9781119002253/)|
+|2. [Storytelling with Data - Practice](https://learning.oreilly.com/library/view/storytelling-with-data/9781119621492/)|
+|3. [The Big Book of Dashboards](https://learning.oreilly.com/library/view/the-big-book/9781119282716/)|
 
 :::
 
 ## Data Analytics
 
+::: {.callout}
+## _**Analytical Thinking**_
+
+||
+|---|
+|1. [Business Intelligence Career Master Plan](https://learning.oreilly.com/library/view/business-intelligence-career/9781801077958/)|
+|2. [Analytical Skills for AI and Data Science](https://learning.oreilly.com/library/view/analytical-skills-for/9781492060932/)|
+|3. [Data Science: The Hard Parts](https://learning.oreilly.com/library/view/data-science-the/9781098146467/)|
+|4. [Bulletproof Problem Solving](https://learning.oreilly.com/library/view/bulletproof-problem-solving/9781119553021/)|
+|5. [The Economics of Data, Analytics, and Digital Transformation](https://learning.oreilly.com/library/view/the-economics-of/9781800561410/)|
+
+:::
+
+::: {.callout}
+## _**Machine Learning**_
+
+||
+|---|
+|1. [Data Cleaning and Exploration with Machine Learning](https://learning.oreilly.com/library/view/data-cleaning-and/9781803241678/)|
+|2. [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)|
+|3. [Modern Time Series Forecasting with Python](https://learning.oreilly.com/library/view/modern-time-series/9781803246802/)|
+
+:::
+
+::: {.callout}
+## _**Predictive Analytics**_
+
+||
+|---|
+|1. [Analytics for Decision Making Specialization](https://www.coursera.org/specializations/analytics-for-decision-making#courses)|
+|2. [Advanced Business Analytics Specialization](https://www.coursera.org/specializations/data-analytics-business)|
+
+:::
+
 ## Domain Knowledge
+
+::: {.callout}
+## _**Business Analytics**_
+
+||
+|---|
+|1. [The Art of Data-Driven Business](https://learning.oreilly.com/library/view/the-art-of/9781804611036/)|
+|2. [Demand Forecasting Best Practices](https://learning.oreilly.com/library/view/demand-forecasting-best/9781633438095/)|
+|3. [Financial Planning & Analysis and Performance Management](https://learning.oreilly.com/library/view/financial-planning/9781119491484/)|
+
+:::
+
+::: {.callout}
+## _**Marketing Analytics**_
+
+||
+|---|
+|1. [Customer Analytics For Dummies](https://learning.oreilly.com/library/view/customer-analytics-for/9781118937624/)|
+|2. [Cutting Edge Marketing Analytics](https://learning.oreilly.com/library/view/cutting-edge-marketing/9780133552584/)|
+|3. [Data Analytics for Marketing](https://learning.oreilly.com/library/view/data-analytics-for/9781803241609/)|
+|4. [Predictive Marketing](https://learning.oreilly.com/library/view/predictive-marketing/9781119037361/)|
+|5. [Mastering Marketing Data Science](https://learning.oreilly.com/library/view/mastering-marketing-data/9781394258710/)|
+|6. [Data Science for Marketing Analytics](https://learning.oreilly.com/library/view/data-science-for/9781800560475/)|
+|7. [Hands-On Data Science for Marketing](https://learning.oreilly.com/library/view/hands-on-data-science/9781789346343/)|
+|8. [Fighting Churn with Data](https://learning.oreilly.com/library/view/fighting-churn-with/9781617296529/)|
+
+:::
 
 ## Certificates
 
 ::: {.callout}
 
+## _**Coursera**_
+
 ||
 |---|
-|1. [Microsoft Power BI Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/microsoft-power-bi-data-analyst)|
+|1. [Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)|
+|2. [Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/meta-data-analyst)|
+|3. [Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics)|
+|4. [Business Intelligence Professional Certificate](https://www.coursera.org/professional-certificates/google-business-intelligence)|
+|5. [Marketing Analytics Professional Certificate](https://www.coursera.org/professional-certificates/facebook-marketing-analytics)|
+|6. [Digital Marketing & E-commerce Professional Certificate](https://www.coursera.org/google-certificates/digital-marketing-certificate)|
+|7. [Digital Marketing Analyst Professional Certificate](https://www.coursera.org/professional-certificates/unilever-digital-marketing-analyst)|
+|8. [Supply Chain Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/unilever-supply-chain-data-analyst)|
+|9. [Google Project Management: Professional Certificate](https://www.coursera.org/google-certificates/project-management-certificate)|
+
+:::
+
+::: {.callout}
+
+## _**Power BI**_
+
+||
+|---|
+|1. [Microsoft Power BI Data Analyst Certification Guide](https://learning.oreilly.com/library/view/microsoft-power-bi/9781803238562/)|
+|2. [Microsoft Power BI Data Analyst Certification Companion](https://learning.oreilly.com/library/view/microsoft-power-bi/9781484290132/)|
+|3. [Microsoft Power BI Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/microsoft-power-bi-data-analyst)|
 
 :::
 
@@ -142,6 +259,7 @@ description: ''
 |---|
 |1. [Ace the Data Science Interview](https://www.acethedatascienceinterview.com/)|
 |2. [Cracking the Data Science Interview](https://learning.oreilly.com/library/view/cracking-the-data/9781805120506/)|
+|3. [The Complete Power BI Interview Guide](https://learning.oreilly.com/library/view/the-complete-power/9781805120674/)|
 
 :::
 
