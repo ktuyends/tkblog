@@ -3,7 +3,7 @@ title: "Bao giờ cho đến tháng 10"
 subtitle: >
   Tôi nằm nghĩ vu vơ, trong căn phòng của mình, mất ngủ vì tiếng mưa rơi ngoài hiên. Nhà tôi nhỏ, lại dùng mái tôn, mỗi lần mưa về, thật là ồn mà...
 author: Tuyen Kieu
-date: '2020-04-20'
+date: '2020-04-02'
 image: featured.jpg
 citation: false
 description: ''
