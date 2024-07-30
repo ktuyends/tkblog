@@ -50,7 +50,9 @@ citation: false
 |34. Thần Thoại Kỷ Nguyên, Ta Tiến Hóa Thành Hằng Tinh Cấp Cự Thú|1227|
 |35. Theo Trảm Yêu Trừ Ma Bắt Đầu Trường Sinh Bất Tử|427|
 |36. Xích Tâm Tuần Thiên |2903|
-|37. Phổ La Chi Chủ|467|
-|38. Vạn Tướng Chi Vương|845|
-|39. Quang Âm Chi Ngoại|624|
-|***40. Đạp Tinh*** |***4672***|
+|37. Vạn Tướng Chi Vương|845|
+|38. Quang Âm Chi Ngoại|624|
+|39. Phổ La Chi Chủ|492|
+|***40. Đạp Tinh***|***5040***|
+|***41. Trận Hỏi Trường Sinh***|***813***|
+|***42. Đại Đạo Chi Thượng***|***110***|

@@ -1,0 +1,13 @@
+---
+title: "Những câu chuyện đã cũ"
+subtitle: >
+  Ngày tạm biệt năm ấy mình đã nghĩ sẽ hoảng hốt biết mấy nếu một ngày nào đó mình quên đi những năm tháng ấy, những người bạn ấy, những kỷ niệm ấy...
+author: Tuyen Kieu
+date: '2024-06-15'
+image: featured.jpg
+citation: false
+categories:
+  - My Secret Diary
+description: ''
+---
+

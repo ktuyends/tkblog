@@ -1,0 +1,20 @@
+---
+title: "Visual Studio Code 101"
+subtitle: >
+  Trong quá trình học tập, tôi đã từng sử dụng nhiều ứng dụng để viết lách từ viết blog cho đến viết code. Hiện nay, tôi chỉ còn sử dụng VS Code.
+author: Tuyen Kieu
+date: '2024-07-15'
+image: featured.jpg
+categories:
+  - Blog
+  - Tools
+description: ''
+filters:
+   - include-code-files
+code-annotations: below
+df-print: paged
+---
+
+<p style="text-align:justify">Trong quá trình học tập, tôi đã từng sử dụng nhiều ứng dụng để viết lách từ viết blog cho đến viết code. Hiện nay, tôi chỉ còn sử dụng VS Code. Đây là một _code editor_ với nhiều extensions miễn phí có thể giúp chúng ta thực hiện các tuỳ chỉnh khi cần thiết.</p>
+
+---

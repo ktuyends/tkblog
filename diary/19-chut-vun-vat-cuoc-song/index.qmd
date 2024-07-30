@@ -1,0 +1,20 @@
+---
+title: "Chút vụn vặt cuộc sống"
+subtitle: >
+  Tôi rất nhớ chúng ta của năm đó, hối hả chạy đến lớp khi nghe tiếng chuông báo, ngủ gà ngủ gật vì bài giảng nhàm chán, nhớ những buổi đạp xe đi học ở Phương Nam, tôi và bạn thân nhau từ đấy...
+author: Tuyen Kieu
+date-modified: '2024-06-30'
+image: featured.jpg
+citation: false
+reference-location: margin
+description: ''
+---
+
+::: {.callout}
+## _Hà Nội, 25/06/2024_
+
+<p></p>
+
+<p style = "text-align: justify">Hồi tối, mình có vào siêu thị FujiMart ở gần nhà để mua ít hoa quả và nước uống. Chuyện cũng không có gì đáng để nói, cho đến khi mình chuẩn bị thanh toán xong thì có một cô bé khá là đáng yêu chạy ra và bảo với mình: "Anh tích luôn điểm hoá đơn của em này, nay em quên không mang thẻ, em mua nhiều mà". Lúc đấy, mình cảm thấy khá ngỡ ngàng cũng không biết nói gì. Chỉ biết mỉm cười rồi nói cảm ơn.</p>
+
+:::
