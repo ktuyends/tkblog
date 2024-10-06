@@ -47,6 +47,8 @@ description: ''
 |5. [Make Your Data Speak](https://learning.oreilly.com/library/view/make-your-data/9781484289426/)|
 |6. [Google Sheets](https://www.youtube.com/watch?v=N2opj8XzYBY)|
 |7. [AI and Business Rule Engines for Excel Power Users](https://learning.oreilly.com/library/view/ai-and-business/9781804619544/)|
+|8. [Data Forecasting and Segmentation Using Microsoft Excel](https://learning.oreilly.com/library/view/data-forecasting-and/9781803247731/)|
+|9. [Data Modeling with Microsoft Excel](https://learning.oreilly.com/library/view/data-modeling-with/9781803240282/)|
 
 :::
 
@@ -59,6 +61,8 @@ description: ''
 |1. [Essential Math for Data Science](https://learning.oreilly.com/library/view/essential-math-for/9781098102920/)|
 |2. [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)|
 |3. [The Essential Machine Learning Foundations](https://learning.oreilly.com/course/the-essential-machine/9780137903245/)|
+|4. [Practical Linear Algebra for Data Science](https://learning.oreilly.com/library/view/practical-linear-algebra/9781098120603/)|
+|5. [Statistics Slam Dunk](https://learning.oreilly.com/library/view/statistics-slam-dunk/9781633438682/)|
 
 :::
 
@@ -72,6 +76,8 @@ description: ''
 |1. [SQL Tutorial](https://datalemur.com/sql-tutorial)
 |2. [Practical SQL](https://learning.oreilly.com/library/view/practical-sql-2nd/9781098129866/)|
 |3. [Data Wrangling with SQL](https://learning.oreilly.com/library/view/data-wrangling-with/9781837630028/)|
+|4. [Becoming a Data Analyst](https://learning.oreilly.com/library/view/becoming-a-data/9781805126416/)|
+|5. [The Enterprise Data Catalog](https://learning.oreilly.com/library/view/the-enterprise-data/9781492098706/)|
 
 :::
 
@@ -91,10 +97,11 @@ description: ''
 
 ||
 |---|
-|1. [Supercharge Power BI](https://www.amazon.com/Supercharge-Power-BI-Better-Learn/dp/1615470697/)|
-|2. [Extreme DAX](https://learning.oreilly.com/library/view/extreme-dax/9781801078511/)|
-|3. [Data Modeling with Microsoft Power BI](https://learning.oreilly.com/library/view/data-modeling-with/9781098148546/)|
-|4. [Expert Data Modeling with Power BI](https://learning.oreilly.com/library/view/expert-data-modeling/9781803246246/)|
+|1. [Learn DAX](https://www.sqlbi.com/training/)|
+|2. [Supercharge Power BI](https://www.amazon.com/Supercharge-Power-BI-Better-Learn/dp/1615470697/)|
+|3. [Extreme DAX](https://learning.oreilly.com/library/view/extreme-dax/9781801078511/)|
+|4. [Data Modeling with Microsoft Power BI](https://learning.oreilly.com/library/view/data-modeling-with/9781098148546/)|
+|5. [Expert Data Modeling with Power BI](https://learning.oreilly.com/library/view/expert-data-modeling/9781803246246/)|
 
 :::
 
@@ -105,6 +112,8 @@ description: ''
 |---|
 |1. [Learn Power BI](https://learning.oreilly.com/library/view/learn-power-bi/9781801811958/)|
 |2. [Mastering Microsoft Power BI](https://learning.oreilly.com/library/view/mastering-microsoft-power/9781801811484/)|
+|3. [Artificial Intelligence with Power BI](https://learning.oreilly.com/library/view/artificial-intelligence-with/9781801814638/)|
+|4. [Artificial Intelligence with Microsoft Power BI](https://learning.oreilly.com/library/view/artificial-intelligence-with/9781098112745/)|
 
 :::
 
@@ -150,7 +159,8 @@ description: ''
 |---|
 |1. [Storytelling with Data](https://learning.oreilly.com/library/view/storytelling-with-data/9781119002253/)|
 |2. [Storytelling with Data - Practice](https://learning.oreilly.com/library/view/storytelling-with-data/9781119621492/)|
-|3. [The Big Book of Dashboards](https://learning.oreilly.com/library/view/the-big-book/9781119282716/)|
+|3. [Effective Data Storytelling](https://learning.oreilly.com/library/view/effective-data-storytelling/9781119615712/)|
+|4. [The Big Book of Dashboards](https://learning.oreilly.com/library/view/the-big-book/9781119282716/)|
 
 :::
 
@@ -166,6 +176,7 @@ description: ''
 |3. [Data Science: The Hard Parts](https://learning.oreilly.com/library/view/data-science-the/9781098146467/)|
 |4. [Bulletproof Problem Solving](https://learning.oreilly.com/library/view/bulletproof-problem-solving/9781119553021/)|
 |5. [The Economics of Data, Analytics, and Digital Transformation](https://learning.oreilly.com/library/view/the-economics-of/9781800561410/)|
+|6. [Becoming a Data Head](https://learning.oreilly.com/library/view/becoming-a-data/9781119741749/)|
 
 :::
 
@@ -187,6 +198,8 @@ description: ''
 |---|
 |1. [Analytics for Decision Making Specialization](https://www.coursera.org/specializations/analytics-for-decision-making#courses)|
 |2. [Advanced Business Analytics Specialization](https://www.coursera.org/specializations/data-analytics-business)|
+|3. [Predictive Analytics for the Modern Enterprise](https://learning.oreilly.com/library/view/predictive-analytics-for/9781098136857/)|
+|4. [Financial Analysis with ARIMA and Time Series Forecasting](https://learning.oreilly.com/course/financial-analysis-with/9781836644231/)|
 
 :::
 
@@ -248,6 +261,7 @@ description: ''
 |1. [Microsoft Power BI Data Analyst Certification Guide](https://learning.oreilly.com/library/view/microsoft-power-bi/9781803238562/)|
 |2. [Microsoft Power BI Data Analyst Certification Companion](https://learning.oreilly.com/library/view/microsoft-power-bi/9781484290132/)|
 |3. [Microsoft Power BI Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/microsoft-power-bi-data-analyst)|
+|4. [Microsoft Power BI Performance Best Practices](https://learning.oreilly.com/library/view/microsoft-power-bi/9781835082256/)|
 
 :::
 
@@ -260,6 +274,19 @@ description: ''
 |1. [Ace the Data Science Interview](https://www.acethedatascienceinterview.com/)|
 |2. [Cracking the Data Science Interview](https://learning.oreilly.com/library/view/cracking-the-data/9781805120506/)|
 |3. [The Complete Power BI Interview Guide](https://learning.oreilly.com/library/view/the-complete-power/9781805120674/)|
+|4. [Driving Data Projects](https://learning.oreilly.com/library/view/driving-data-projects/9781780176253/)|
+|5. [Data Science for Decision Makers](https://learning.oreilly.com/library/view/data-science-for/9781837637294/)|
+|6. [The Decision Maker's Handbook](https://learning.oreilly.com/library/view/the-decision-makers/9798868802799/)|
+
+:::
+
+## Generative AI
+
+::: {.callout}
+
+||
+|---|
+|1. []()|
 
 :::
 
@@ -269,7 +296,12 @@ description: ''
 
 ||
 |---|
-|1. [Learn Microsoft Office 2021](https://learning.oreilly.com/library/view/learn-microsoft-office/9781803239736/)|
+|1. [Microsoft 365 Word Tips and Tricks](https://learning.oreilly.com/library/view/microsoft-365-word/9781800565432/)|
 |2. [Microsoft PowerPoint Best Practices, Tips, and Techniques](https://learning.oreilly.com/library/view/microsoft-powerpoint-best/9781839215339/)|
+|3. [Efficiency Best Practices for Microsoft 365](https://learning.oreilly.com/library/view/efficiency-best-practices/9781801072267/)|
+|4. [Working Smarter with Microsoft Outlook](https://learning.oreilly.com/library/view/working-smarter-with/9781800560703/)|
+|5. [Google Workspace For Dummies](https://learning.oreilly.com/library/view/google-workspace-for/9781394253227/)|
+|6. [Google Sheets and Workspace](https://learning.oreilly.com/course/google-sheets-and/10000DIHV202223/)|
+|7. [Using Google Docs, Sheets, Slides, and Drive](https://learning.oreilly.com/course/using-google-docs/9780134176642/)|
 
 :::

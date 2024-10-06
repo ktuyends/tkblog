@@ -3,7 +3,7 @@ title: "Preparing for my life"
 subtitle: >
   Những năm này, tốn quá nhiều thời gian cho một số chuyện, đến lúc giật mình nhìn lại xung quanh mới thấy tiếc nuối vì bỏ lỡ quá nhiều thứ...
 author: Tuyen Kieu
-date: '2024-05-12'
+date: '2024-10-05'
 image: featured.jpg
 citation: false
 categories:
@@ -11,4 +11,4 @@ categories:
 description: ''
 ---
 
-<p style="text-align:justify">Những năm này, tốn quá nhiều thời gian cho một số chuyện, đến lúc giật mình nhìn lại xung quanh mới thấy tiếc nuối vì bỏ lỡ quá nhiều thứ, mình đã không còn là mình của ngày trước. Đã đến lúc mình phải dành nhiều thời gian hơn cho cuộc sống, mình phải sống như mùa hè năm ấy...</p>
+<p style="text-align:justify">Những năm này, tốn quá nhiều thời gian cho một số chuyện, đến lúc giật mình nhìn lại xung quanh mới thấy tiếc nuối vì bỏ lỡ quá nhiều thứ, mình đã không còn là mình của ngày trước. Có lẽ cũng đã đến lúc bản thân phải dành nhiều thời gian hơn cho cuộc sống, mình phải sống như mùa hè năm ấy...</p>

@@ -46,13 +46,15 @@ citation: false
 |30. Cẩu Tại Yêu Võ Loạn Thế Tu Tiên |615| 
 |31. Vừa Thành Tiên Thần, Con Cháu Cầu Ta Xuất Sơn |650|
 |32. Ta Chỉ Muốn An Tĩnh Làm Cẩu Đạo Bên Trong Người |1500|
-|33. Cẩu Thả Tại Nữ Ma Đầu Bên Người Vụng Trộm Tu Luyện|1451|
+|33. Cẩu Thả Tại Nữ Ma Đầu Bên Người Vụng Trộm Tu Luyện|1400|
 |34. Thần Thoại Kỷ Nguyên, Ta Tiến Hóa Thành Hằng Tinh Cấp Cự Thú|1227|
 |35. Theo Trảm Yêu Trừ Ma Bắt Đầu Trường Sinh Bất Tử|427|
 |36. Xích Tâm Tuần Thiên |2903|
 |37. Vạn Tướng Chi Vương|845|
 |38. Quang Âm Chi Ngoại|624|
 |39. Phổ La Chi Chủ|492|
-|***40. Đạp Tinh***|***5040***|
-|***41. Trận Hỏi Trường Sinh***|***813***|
-|***42. Đại Đạo Chi Thượng***|***110***|
+|40. Trận Hỏi Trường Sinh|852|
+|***41. Đạp Tinh***|***5455***|
+|***42. Thanh Sơn***|***158***|
+|***43. Thiên Khuynh Chi Hậu***|***328***|
+|***44. Dạ Vô Cương***|***60***|

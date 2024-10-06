@@ -1,0 +1,63 @@
+---
+title: "Chút vụn vặt cuộc sống"
+subtitle: >
+  Tôi rất nhớ chúng ta của năm đó, hối hả chạy đến lớp khi nghe tiếng chuông báo, ngủ gà ngủ gật vì bài giảng nhàm chán. Nhớ những buổi đạp xe đi học ở Phương Nam, tôi và bạn thân nhau từ đấy...
+author: Tuyen Kieu
+date-modified: '2024-10-06'
+image: featured.jpg
+citation: false
+reference-location: margin
+description: ''
+---
+
+::: {.callout}
+## _**Cậu không định rời đi à?**_
+<p></p>
+
+<p style="text-align:justify"></p>
+
+<!-- 
+Có chứ, nhưng đôi khi thật khó đưa ra quyết định giữa tình cảm và lý trí. T cũng k biết mình nên làm gì khi rời đi, t muốn trở về nơi đó, nhưng k biết còn tiếp nhận mình k, t đã rời đi quá lâu rồi.
+
+Muốn dành thời gian để suy nghĩ sau kỳ nghĩ, rồi bão yagi đến, những lo lắng, bôn ba ngược xuôi chuyển đồ,....
+
+Vòng tròn mối quan hệ (truyện đạp tinh)
+-->
+
+:::
+
+::: {.callout}
+## _**Những bức tường vô hình**_
+<p></p>
+
+<p style="text-align:justify"></p>
+
+<!-- 
+Mưa, nhớ lại hôm ở vinmart đứng dưới mái, nhớ về thời còn trẻ, k dám bước ra vòng an toàn, tạo ra quá nhiều bức tường
+-->
+
+:::
+
+::: {.callout}
+## _**Sống đơn giản cho đời thanh thản**_
+<p></p>
+
+<p style="text-align:justify"></p>
+
+<!-- 
+Có phải chúng ta làm cuộc sống này ngày càng phức tạp không, sao k nghĩ khác đi, hỏi những câu hỏi khác như dạo này thế nào, có gì vui không, không hỏi hay áp đặt chuyện bao giờ cưới, đang yên bình chắc gì đến lúc có gia đình đã còn bình yên như vậy, cta khi đó có thể thoải mái với nhau hơn
+-->
+
+:::
+
+::: {.callout}
+## _**Bình yên nơi đâu**_
+<p></p>
+
+<p style="text-align:justify"></p>
+
+<!-- 
+Những khoảng lặng cuộc sống, đó là lúc đi một mình dưới mưa, hay trên đường đi làm về, bạn chẳng thể làm gì khác ngoài ngoài việc vừa đi vừa nghĩ, giống như mình từng nói, khi vào viện điều duy nhất bạn quan tâm là sức khỏe, k muốn nghĩ đến những vấn đề khác
+-->
+
+:::
