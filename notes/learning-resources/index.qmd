@@ -32,6 +32,7 @@ description: ''
 |2. [Python Crash Course](https://learning.oreilly.com/library/view/python-crash-course/9781098156664/)|
 |3. [Mastering Python](https://learning.oreilly.com/library/view/mastering-python/9781800207721/)|
 |4. [Python Tools for Scientists](https://learning.oreilly.com/library/view/python-tools-for/9781098156688/)|
+|5. [Python A-Z: Learn Python by Building 15 Projects and ChatGPT](https://learning.oreilly.com/course/python-a-z-learn/9781839212956/)|
 
 :::
 
@@ -286,7 +287,15 @@ description: ''
 
 ||
 |---|
-|1. []()|
+|1. [Generative AI For Dummies](https://learning.oreilly.com/library/view/generative-ai-for/9781394270743/)|
+|2. [The Midjourney Expedition](https://learning.oreilly.com/library/view/the-midjourney-expedition/9781835086971/)|
+|3. [Advanced Styles and Insights with Midjourney](https://learning.oreilly.com/library/view/advanced-styles-and/9798868803369/)|
+|4. [Learn Midjourney For Your Future](https://learning.oreilly.com/course/learn-midjourney-for/9781835089934/)|
+|5. [Create Beautiful Imagery with Midjourney AI](https://learning.oreilly.com/course/create-beautiful-imagery/9781805121664/)|
+|6. [Business Writing with AI For Dummies](https://learning.oreilly.com/library/view/business-writing-with/9781394261734/)|
+|7. [Marketing with AI For Dummies](https://learning.oreilly.com/library/view/marketing-with-ai/9781394237197/)|
+|8. [Generative AI in Digital Marketing and E-commerce](https://learning.oreilly.com/course/unlocking-innovation/9781836207290/)|
+|9. [Machine Learning and Generative AI for Marketing](https://learning.oreilly.com/library/view/machine-learning-and/9781835889404/)|
 
 :::
 
@@ -303,5 +312,6 @@ description: ''
 |5. [Google Workspace For Dummies](https://learning.oreilly.com/library/view/google-workspace-for/9781394253227/)|
 |6. [Google Sheets and Workspace](https://learning.oreilly.com/course/google-sheets-and/10000DIHV202223/)|
 |7. [Using Google Docs, Sheets, Slides, and Drive](https://learning.oreilly.com/course/using-google-docs/9780134176642/)|
+|8. [Microsoft Copilot for Windows 11](https://learning.oreilly.com/library/view/microsoft-copilot-for/9798868805837/)|
 
 :::
