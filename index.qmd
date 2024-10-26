@@ -32,6 +32,6 @@ resources:
 
 ::: {#hero-heading}
 
-Xin chào, mình là Tuyến, một người hướng nội, thích làm bạn<br>với những con số và những câu chữ. Blog này ra đời với suy nghĩ mình cần một nơi để lưu trữ lại những kiến thức về DA và BI. Ngoài ra đây cũng là nơi để mình viết về những <br> thăng trầm trong cuộc sống.
+Xin chào, mình là Tuyến <3 <br> Đã 30 nhưng vẫn còn chênh vênh<br> Đôi khi mình hay có những suy nghĩ linh tinh<br> Và muốn viết nó ra, đó là khởi nguồn sự ra đời của Blog này<br> Ngoài ra đây cũng là nơi mình lưu lại một số ghi chép về DA và BI
 
 :::

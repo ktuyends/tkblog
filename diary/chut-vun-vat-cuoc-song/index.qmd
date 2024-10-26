@@ -3,7 +3,7 @@ title: "Chút vụn vặt cuộc sống"
 subtitle: >
   Tôi rất nhớ chúng ta của năm đó, hối hả chạy đến lớp khi nghe tiếng chuông báo, ngủ gà ngủ gật vì bài giảng nhàm chán. Nhớ những buổi đạp xe đi học ở Phương Nam, tôi và bạn thân nhau từ đấy...
 author: Tuyen Kieu
-date-modified: '2024-10-06'
+date: '2024-10-26'
 image: featured.jpg
 citation: false
 reference-location: margin
@@ -51,7 +51,7 @@ Có phải chúng ta làm cuộc sống này ngày càng phức tạp không, sa
 :::
 
 ::: {.callout}
-## _**Bình yên nơi đâu**_
+## _**Đôi khi, bình yên khó vậy sao?**_
 <p></p>
 
 <p style="text-align:justify"></p>
