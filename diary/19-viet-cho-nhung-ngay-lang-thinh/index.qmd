@@ -1,0 +1,16 @@
+---
+title: "Viết cho những ngày thinh lặng"
+subtitle: >
+  Tôi đã từng nghĩ, một trong những nơi bản thân cảm thấy bình yên nhất là trong bệnh viện. Cho đến một ngày, người nằm trong đó không phải là mình mà là người khác...
+author: Tuyen Kieu
+date: '2024-10-31'
+image: featured.jpg
+citation: false
+reference-location: margin
+description: ''
+---
+
+<p style="text-align:justify">Hà Nội, 31/10/2024</p>
+
+<p style="text-align:justify"></p>
+

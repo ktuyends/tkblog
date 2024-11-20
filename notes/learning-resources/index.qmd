@@ -201,6 +201,7 @@ description: ''
 |2. [Advanced Business Analytics Specialization](https://www.coursera.org/specializations/data-analytics-business)|
 |3. [Predictive Analytics for the Modern Enterprise](https://learning.oreilly.com/library/view/predictive-analytics-for/9781098136857/)|
 |4. [Financial Analysis with ARIMA and Time Series Forecasting](https://learning.oreilly.com/course/financial-analysis-with/9781836644231/)|
+|5. [Hands-On Prescriptive Analytics](https://learning.oreilly.com/library/view/hands-on-prescriptive-analytics/9781098153168/)|
 
 :::
 

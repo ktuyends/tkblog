@@ -12,7 +12,7 @@ citation: false
 
 <p style = "text-align: justify">Ngày trước, mình vốn là một người ít đọc sách. Dù thỉnh thoảng đi dạo nhà sách, thấy cái tiêu đề hay hay là lại ôm một đống mang về. Những cuốn sách đó giờ có lẽ đã bị phủ đầy bụi trong tủ sách. Có một ngày, mình bị thằng bạn mang lệch, mơ mơ màng màng đi vào cái thế giới này lúc nào không hay. Và cứ thế mình đọc đến tận bây giờ, như một thói quen hằng ngày khó bỏ. </p>
 
-| Tên truyện|Số chương|
+| Tên truyện|Đã đọc|
 |---|:---:|
 |1. Đế Tôn|2921/2921|
 |2. Yêu Thần Ký|496/496|
@@ -46,7 +46,7 @@ citation: false
 |30. Cẩu Tại Yêu Võ Loạn Thế Tu Tiên |615| 
 |31. Vừa Thành Tiên Thần, Con Cháu Cầu Ta Xuất Sơn |650|
 |32. Ta Chỉ Muốn An Tĩnh Làm Cẩu Đạo Bên Trong Người |1500|
-|33. Cẩu Thả Tại Nữ Ma Đầu Bên Người Vụng Trộm Tu Luyện|1865|
+|33. Cẩu Thả Tại Nữ Ma Đầu Bên Người Vụng Trộm Tu Luyện|1552|
 |34. Thần Thoại Kỷ Nguyên, Ta Tiến Hóa Thành Hằng Tinh Cấp Cự Thú|1227|
 |35. Theo Trảm Yêu Trừ Ma Bắt Đầu Trường Sinh Bất Tử|427|
 |36. Xích Tâm Tuần Thiên |2903|
@@ -54,8 +54,7 @@ citation: false
 |38. Quang Âm Chi Ngoại|624|
 |39. Phổ La Chi Chủ|492|
 |40. Trận Hỏi Trường Sinh|852|
-|***41. Đạp Tinh***|***5506***|
-|***42. Thanh Sơn***|***177***|
-|***43. Thiên Khuynh Chi Hậu***|***449***|
-|***44. Dạ Vô Cương***|***60***|
-|***45. Shadow Slave***|***10***|
+|***41. Đạp Tinh***|***5545***|
+|***42. Dạ Vô Cương***|***151***|
+|***43. Thiên Khuynh Chi Hậu***|***420***|
+|***44. Thôn Phệ Tinh Không***|***26***|
