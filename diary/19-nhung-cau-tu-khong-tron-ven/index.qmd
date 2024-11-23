@@ -1,9 +1,9 @@
 ---
-title: "Chút vụn vặt cuộc sống"
+title: "Những câu từ không trọn vẹn"
 subtitle: >
   Tôi rất nhớ chúng ta của năm đó, hối hả chạy đến lớp khi nghe tiếng chuông báo, ngủ gà ngủ gật vì bài giảng nhàm chán. Nhớ những buổi đạp xe đi học ở Phương Nam, tôi và bạn thân nhau từ đấy...
 author: Tuyen Kieu
-date: '2024-11-11'
+date: '2024-11-13'
 image: featured.jpg
 citation: false
 reference-location: margin
@@ -11,18 +11,63 @@ description: ''
 ---
 
 ::: {.callout}
+## _**Mong ước kỷ niệm xưa**_
+<p></p>
+
+<p style="text-align:justify"></p>
+
+Tôi rất nhớ chúng ta của năm đó, hối hả chạy đến lớp khi nghe tiếng chuông báo, ngủ gà ngủ gật vì bài giảng nhàm chán. Nhớ những buổi đạp xe đi học ở Phương Nam, tôi và bạn thân nhau từ đấy...
+
+<p style="text-align:right"><i>- Sinh nhật T & P </i></p>
+
+:::
+
+::: {.callout}
+## _**Bảo vệ lương 5 trẹo**_
+<p></p>
+
+<p style="text-align:justify"></p>
+
+**Me**: _Nãy ăn tối xong tôi tạt vô Mixue gọi một cốc chanh tươi 15k mang về. Nhân viên nghe xong có vẻ khinh bỉ._
+<br>**Poro**: _Bình thường mà, lâu lâu tôi vẫn tạt vô mua cây kem 10k._
+<br>**Nega**: _Đặt ngay cho tôi 100 cốc xem có ngầu không._
+<br>**Me**: _Chuyển cho tôi 1tr5 để tôi thể hiện nào._
+<br>**Nega**: _1tr5 thôi mà..._
+<br>**Me**: _Tôi làm bảo vệ lương 5 trẹo, mua rồi how to sống._
+<br>**Sakai**: _Anh này tháng 5 trẹo đô, quá giàu._
+<br>**Me**: _Anh nào đồn ác vậy ???_
+
+<p style="text-align:right"><i>- Tôi và những người bạn LA</i></p>
+
+:::
+
+::: {.callout}
+## _**Long time no see**_
+<p></p>
+
+<p style="text-align:justify">Tôi đã từng nghĩ, bạn cũng giống một vài người khác, chỉ gặp một lần trong đời rồi thôi. Thậm chí khi đó tôi còn chưa kịp bắt chuyện với bạn, không nghĩ tới chúng ta sẽ còn có duyên gặp lại. Bạn thấy không, thế giới lớn như vậy, nhiều người như thế, tôi bắt gặp bạn, bạn trông thấy tôi, tốt đến nhường nào.</p>
+
+<p style="text-align:right"><i>- HN 24/11/2024</i></p>
+
+:::
+
+---
+
+_To be continued..._
+
+<!-- 
+
+::: {.callout}
 ## _**Cậu không định rời đi à?**_
 <p></p>
 
 <p style="text-align:justify"></p>
 
-<!-- 
 Có chứ, nhưng đôi khi thật khó đưa ra quyết định giữa tình cảm và lý trí. T cũng k biết mình nên làm gì khi rời đi, t muốn trở về nơi đó, nhưng k biết còn tiếp nhận mình k, t đã rời đi quá lâu rồi.
 
 Muốn dành thời gian để suy nghĩ sau kỳ nghĩ, rồi bão yagi đến, những lo lắng, bôn ba ngược xuôi chuyển đồ,....
 
 Vòng tròn mối quan hệ (truyện đạp tinh)
--->
 
 :::
 
@@ -32,9 +77,7 @@ Vòng tròn mối quan hệ (truyện đạp tinh)
 
 <p style="text-align:justify"></p>
 
-<!-- 
 Mưa, nhớ lại hôm ở vinmart đứng dưới mái, nhớ về thời còn trẻ, k dám bước ra vòng an toàn, tạo ra quá nhiều bức tường
--->
 
 :::
 
@@ -44,9 +87,7 @@ Mưa, nhớ lại hôm ở vinmart đứng dưới mái, nhớ về thời còn 
 
 <p style="text-align:justify"></p>
 
-<!-- 
 Có phải chúng ta làm cuộc sống này ngày càng phức tạp không, sao k nghĩ khác đi, hỏi những câu hỏi khác như dạo này thế nào, có gì vui không, không hỏi hay áp đặt chuyện bao giờ cưới, đang yên bình chắc gì đến lúc có gia đình đã còn bình yên như vậy, cta khi đó có thể thoải mái với nhau hơn
--->
 
 :::
 
@@ -56,8 +97,8 @@ Có phải chúng ta làm cuộc sống này ngày càng phức tạp không, sa
 
 <p style="text-align:justify"></p>
 
-<!-- 
 Những khoảng lặng cuộc sống, đó là lúc đi một mình dưới mưa, hay trên đường đi làm về, bạn chẳng thể làm gì khác ngoài ngoài việc vừa đi vừa nghĩ, giống như mình từng nói, khi vào viện điều duy nhất bạn quan tâm là sức khỏe, k muốn nghĩ đến những vấn đề khác
--->
 
 :::
+
+-->
