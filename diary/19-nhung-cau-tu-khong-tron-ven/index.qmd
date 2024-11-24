@@ -3,18 +3,18 @@ title: "Những câu từ không trọn vẹn"
 subtitle: >
   Tôi rất nhớ chúng ta của năm đó, hối hả chạy đến lớp khi nghe tiếng chuông báo, ngủ gà ngủ gật vì bài giảng nhàm chán. Nhớ những buổi đạp xe đi học ở Phương Nam, tôi và bạn thân nhau từ đấy...
 author: Tuyen Kieu
-date: '2024-11-13'
+date: '2024-11-23'
 image: featured.jpg
 citation: false
 reference-location: margin
 description: ''
 ---
 
+<p style="text-align:justify">Có những ngày chỉ muốn trở về quê. Nằm nghe gió rít qua hàng song cửa. Tôi sẽ ngồi vào chiếc bàn học cũ, và viết tiếp những câu chuyện còn dang dở. Cũng đã lâu lắm rồi, mình chợt nhận ra bản thân không còn viết được những bài dài như trước nữa. Nhịp sống hối hả, làm cho mọi thứ đều trở lên nhanh hơn thường nhật. Có lẽ những bài ngắn sẽ phù hợp hơn những bài dài, viết những câu chuyện ngắn cũng đơn giản hơn rất nhiều. Đó cũng là lý do mà mình gọi đây là những câu từ không trọn vẹn...</p>
+
 ::: {.callout}
 ## _**Mong ước kỷ niệm xưa**_
 <p></p>
-
-<p style="text-align:justify"></p>
 
 Tôi rất nhớ chúng ta của năm đó, hối hả chạy đến lớp khi nghe tiếng chuông báo, ngủ gà ngủ gật vì bài giảng nhàm chán. Nhớ những buổi đạp xe đi học ở Phương Nam, tôi và bạn thân nhau từ đấy...
 
@@ -51,25 +51,29 @@ Tôi rất nhớ chúng ta của năm đó, hối hả chạy đến lớp khi n
 
 :::
 
+::: {.callout}
+## _**Cậu không định rời đi à?**_
+<p></p>
+
+<p style="text-align:justify">Có chứ, nhưng đôi khi thật khó để đưa ra quyết định giữa tình cảm và lý trí. Tớ cũng không biết mình nên làm gì khi rời đi. Tớ muốn trở về nơi đó, nhưng lại không biết nơi đó còn tiếp nhận mình không, tớ đã rời đi vòng tròn đó quá lâu rồi.</p>
+
+<p style="text-align:justify">Mới hôm trước đây thôi, Dẻ có hỏi tôi có gì để làm không. Tụi bạn cũng hỏi dạo này có gì làm không Cún. Tôi không biết, có lẽ tôi cần phải dành chút thời gian cho bản thân, để nghĩ suy về những chuyện phải làm trong tương lai, 2024 cũng sắp kết thúc rồi...</p>
+
+:::
+
+::: {.callout}
+## _**Chúng ta còn ăn cùng nhau được mấy lần?**_
+<p></p>
+
+<p style="text-align:justify"></p>
+
+:::
+
 ---
 
 _To be continued..._
 
 <!-- 
-
-::: {.callout}
-## _**Cậu không định rời đi à?**_
-<p></p>
-
-<p style="text-align:justify"></p>
-
-Có chứ, nhưng đôi khi thật khó đưa ra quyết định giữa tình cảm và lý trí. T cũng k biết mình nên làm gì khi rời đi, t muốn trở về nơi đó, nhưng k biết còn tiếp nhận mình k, t đã rời đi quá lâu rồi.
-
-Muốn dành thời gian để suy nghĩ sau kỳ nghĩ, rồi bão yagi đến, những lo lắng, bôn ba ngược xuôi chuyển đồ,....
-
-Vòng tròn mối quan hệ (truyện đạp tinh)
-
-:::
 
 ::: {.callout}
 ## _**Những bức tường vô hình**_
