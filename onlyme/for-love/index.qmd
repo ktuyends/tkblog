@@ -3,7 +3,7 @@ title: "Và rồi, chúng mình sẽ lại yêu"
 subtitle: >
   Bạn thấy không, thế giới lớn như vậy, nhiều người như thế. Tôi bắt gặp bạn, bạn trông thấy tôi, tốt đến nhường nào...
 author: Tuyen Kieu
-date: '2024-10-20'
+date: '2024-12-03'
 image: featured.jpg
 citation: false
 categories:
@@ -11,7 +11,19 @@ categories:
 description: ''
 ---
 
+::: {.callout}
+## _**Tháng 12 về**_
+<p></p>
+
+<p style="text-align:justify">Đã từng, mình viết rất nhiều, cũng xóa rất nhiều. Đã từng, có người không biết từ đâu đến, lục mò đọc hết những gì mình viết, khóc rất nhiều, cuối cùng lại rời đi trong im lặng. Cũng từ đó mình ít viết hơn. Thoáng chốc đã 10 năm trôi qua. Bạn biết không, rất nhiều lần mình vẫn muốn đặt bút viết một câu chuyện của riêng mình, một câu chuyện Happy Ending. Một câu chuyện mà mình có thể tự hào chia sẻ với mọi người, mà không phải là những câu chuyện buồn, viết rồi lại xóa.</p>
+
+<p style="text-align:justify">Haizz, tháng 12 đến, lại gợi cho người ta nhiều tâm trạng. Có lẽ vì nó là điểm kết thúc của một năm, nhưng cũng là khoảnh khắc trước bình minh của một năm mới, của một hy vọng mới. Vậy thì, hy vọng đây sẽ là một câu chuyện ở trong một trang khác mà không phải là only me.</p>
+
+:::
+
 <!-- 
+
+Hà Nội đã lạnh dẫn rồi em nhỉ. Người ta bảo first date không nên tặng quà, không làm abcxyz. Anh không biết mình nên làm gì nữa, em sẽ thích gì, a ngốc mà. Hy vọng món quá nhỏ này sẽ thay anh giúp em làm ấm trong những lúc k ở bên. A sẽ cố gắng để trở lên tốt hơn, làm một trụ cột vững chắc, để nóc nhà có thể bình an mỗi khi giông bão đến. Có gì hãy nói với anh, đâu ai tốt ngay từ đâu, chỉ là vì một ai đó ng ta sẽ thay đổi để phù hợp hơn. <3 Ngọc
 
 ::: {.callout}
 ## _**Như một giấc mơ**_
