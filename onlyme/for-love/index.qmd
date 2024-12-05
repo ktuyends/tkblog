@@ -11,6 +11,21 @@ categories:
 description: ''
 ---
 
+::: {.callout}
+## _**Bản kiểm điểm**_
+<p></p>
+
+Hà Nội, 05/12/2024
+
+Như mọi ngày, anh bắt đầu buổi tối với đống bài tập và một tách trà nóng. Em biết không, anh đã từng hứa với bạn em sẽ đối xử thật tốt với em. Vậy mà, hôm nay chưa gì anh đã không chú ý đến sức khỏe của em. Tự dưng cảm thấy bản thân mình thật tệ.
+
+Tôi, A Lươn xin tự kiểm điểm lại bản thân vì lỗi lầm của mình. Và xin nhận mọi hình phạt từ bé Ngọc. 
+
+Hứa sẽ mãi mãi đối xử tốt với em!
+
+:::
+
+
 <!-- 
 
 Hà Nội đã lạnh dẫn rồi em nhỉ. Người ta bảo first date không nên tặng quà, không làm abcxyz. Anh không biết mình nên làm gì nữa, em sẽ thích gì, a ngốc mà. Hy vọng món quá nhỏ này sẽ thay anh giúp em làm ấm trong những lúc k ở bên. A sẽ cố gắng để trở lên tốt hơn, làm một trụ cột vững chắc, để nóc nhà có thể bình an mỗi khi giông bão đến. Có gì hãy nói với anh, đâu ai tốt ngay từ đâu, chỉ là vì một ai đó ng ta sẽ thay đổi để phù hợp hơn. <3 Ngọc
