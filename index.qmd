@@ -32,6 +32,6 @@ resources:
 
 ::: {#hero-heading}
 
-Xin chào, mình là Tuyến <3 <br> Đã 30 nhưng vẫn còn chênh vênh<br> Đôi khi mình hay có những suy nghĩ linh tinh<br> Và muốn viết nó ra, đó là khởi nguồn sự ra đời của Blog này<br> Ngoài ra đây cũng là nơi mình lưu lại một số ghi chép về DA và BI
+Xin chào, mình là Tuyến <3 <br> Đã 30 nhưng vẫn còn chênh vênh<br> Nhưng không sao, mọi thứ giờ mới chỉ bắt đầu<br> Mình vẫn đang kiếm tìm một con đường của riêng mình<br> Và đây là nơi mình ghi chép lại quá trình đó.
 
 :::

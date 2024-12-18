@@ -8,6 +8,7 @@ image: featured.jpg
 description: ''
 toc: false
 citation: false
+draft: true
 ---
 
 <p style = "text-align: justify">Ngày trước, mình vốn là một người ít đọc sách. Dù thỉnh thoảng đi dạo nhà sách, thấy cái tiêu đề hay hay là lại ôm một đống mang về. Những cuốn sách đó giờ có lẽ đã bị phủ đầy bụi trong tủ sách. Có một ngày, mình bị thằng bạn mang lệch, mơ mơ màng màng đi vào cái thế giới này lúc nào không hay. Và cứ thế mình đọc đến tận bây giờ, như một thói quen hằng ngày khó bỏ. </p>
