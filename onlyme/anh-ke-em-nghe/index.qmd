@@ -1,11 +1,14 @@
 ---
 title: "Viết cho em #1"
 subtitle: >
+   Ngày xửa, ngày xưa, nhưng không xưa lắm. Ngày mới vào cấp ba, anh ngồi một mình một bàn ở cuối lớp, không có nhiều bạn...
 author: Tuyen Kieu
 date: '2024-12-10'
 image: featured.jpg
 citation: false
 reference-location: margin
+categories:
+  - My Secret Diary
 description: ''
 ---
 
