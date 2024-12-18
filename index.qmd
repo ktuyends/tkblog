@@ -32,6 +32,6 @@ resources:
 
 ::: {#hero-heading}
 
-Xin chào, mình là Tuyến <3 <br> Đã 30 nhưng vẫn còn chênh vênh<br> Nhưng không sao, mọi thứ giờ mới chỉ bắt đầu<br> Mình vẫn đang kiếm tìm một con đường của riêng mình<br> Và đây là nơi mình ghi chép lại quá trình đó.
+Xin chào, mình là Tuyến <3 <br> Đã 30 nhưng vẫn còn chênh vênh<br> 30 tuổi, mọi thứ giờ mới chỉ bắt đầu<br> Mình vẫn đang đi tìm con đường của riêng mình<br> Và đây là nơi mình ghi chép lại quá trình đó.
 
 :::
