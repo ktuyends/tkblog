@@ -30,31 +30,23 @@ draft: true
 |13. Vạn Cổ Đệ Nhất Tông |2008/2008|
 |14. Đấu Phá Thương Khung |1641/1641|
 |15. Thiên Đạo Đồ Thư Quán |2264/2264|
-|16. Đại Quản Gia Là Ma Hoàng |770/1312|
-|17. Vũ Luyện Đỉnh Phong |3282/6003|
-|18. Toàn Cầu Cao Võ |1437/1437|
-|19. Nhất Kiếm Độc Tôn |1975|
-|20. Ta Chỉ Muốn An Tĩnh Chơi Game |1900/1900|
-|21. Ta Có Một Thân Bị Động Kỹ |900|
-|22. Cửu Tinh Bá Thể Quyết |4800|
-|23. Dạ Mệnh Danh Thuật |750|
-|24. Tinh Môn |626/626|
-|25. Nhân Đạo Chí Tôn |1494/1494|
-|26. Thâm Không Bỉ Ngạn |1437/1437|
-|27. Thôn Phệ Tinh Không |1485/1485|
-|28. Mink Đường Phố Số 13 |350|
-|29. Ta Thuộc Tính Tu Hành Nhân Sinh |678|
-|30. Cẩu Tại Yêu Võ Loạn Thế Tu Tiên |615| 
-|31. Vừa Thành Tiên Thần, Con Cháu Cầu Ta Xuất Sơn |650|
-|32. Ta Chỉ Muốn An Tĩnh Làm Cẩu Đạo Bên Trong Người |1500|
-|33. Cẩu Thả Tại Nữ Ma Đầu Bên Người Vụng Trộm Tu Luyện|1552|
-|34. Thần Thoại Kỷ Nguyên, Ta Tiến Hóa Thành Hằng Tinh Cấp Cự Thú|1227|
-|35. Theo Trảm Yêu Trừ Ma Bắt Đầu Trường Sinh Bất Tử|427|
-|36. Xích Tâm Tuần Thiên |2903|
-|37. Vạn Tướng Chi Vương|845|
-|38. Quang Âm Chi Ngoại|624|
-|39. Phổ La Chi Chủ|492|
-|40. Trận Hỏi Trường Sinh|852|
-|***41. Đạp Tinh***|***5545***|
-|***42. Dạ Vô Cương***|***151***|
-|***43. Thiên Khuynh Chi Hậu***|***420***|
+|16. Vũ Luyện Đỉnh Phong |3282/6003|
+|17. Toàn Cầu Cao Võ |1437/1437|
+|18. Nhất Kiếm Độc Tôn |1975|
+|19. Ta Chỉ Muốn An Tĩnh Chơi Game |1900/1900|
+|20. Ta Có Một Thân Bị Động Kỹ |900|
+|21. Cửu Tinh Bá Thể Quyết |4800|
+|22. Dạ Mệnh Danh Thuật |750|
+|23. Tinh Môn |626/626|
+|24. Nhân Đạo Chí Tôn |1494/1494|
+|25. Thâm Không Bỉ Ngạn |1437/1437|
+|26. Thôn Phệ Tinh Không |1485/1485|
+|27. Ta Chỉ Muốn An Tĩnh Làm Cẩu Đạo Bên Trong Người |1500|
+|28. Cẩu Thả Tại Nữ Ma Đầu Bên Người Vụng Trộm Tu Luyện|1582|
+|29. Thần Thoại Kỷ Nguyên, Ta Tiến Hóa Thành Hằng Tinh Cấp Cự Thú|1227|
+|30. Xích Tâm Tuần Thiên |2903|
+|31. Vạn Tướng Chi Vương|845|
+|32. Quang Âm Chi Ngoại|624|
+|33. Phổ La Chi Chủ|492|
+|34. Trận Hỏi Trường Sinh|852|
+|***35. Đạp Tinh***|***5589***|

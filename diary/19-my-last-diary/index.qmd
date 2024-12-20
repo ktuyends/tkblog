@@ -1,0 +1,18 @@
+---
+title: "Tomorrow is another day"
+subtitle: >
+  Ngày cuối cùng của năm, học cách buông bỏ đi một vài thứ để nhường chỗ cho những điều mới. Chúng ta, suy cho cùng cũng chỉ có 24h một ngày, rất nhiều chuyện chỉ có thể bỏ ngỏ cho ngày sau... 
+author: Tuyen Kieu
+date: '2024-12-31'
+image: featured.jpg
+citation: false
+reference-location: margin
+description: ''
+---
+
+<p style="text-align:justify">Hà Nội, 31/12/2024</p>
+
+---
+
+<p style="text-align:justify">Hi, xin chào, mình là Tuyến. Nếu một ngày, bạn tìm thấy trang nhật ký này thì mình đã thôi không viết nữa.</p>
+
