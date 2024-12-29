@@ -20,6 +20,7 @@ description: ''
 |---|
 |1. [Learning Git](https://learning.oreilly.com/library/view/learning-git/9781098133900/)|
 |2. [Dave Ebbelaar](https://www.youtube.com/@daveebbelaar/videos)|
+|3. [Mastering Git](https://learning.oreilly.com/library/view/mastering-git/9781835086070/)|
 
 :::
 
@@ -50,6 +51,10 @@ description: ''
 |7. [AI and Business Rule Engines for Excel Power Users](https://learning.oreilly.com/library/view/ai-and-business/9781804619544/)|
 |8. [Data Forecasting and Segmentation Using Microsoft Excel](https://learning.oreilly.com/library/view/data-forecasting-and/9781803247731/)|
 |9. [Data Modeling with Microsoft Excel](https://learning.oreilly.com/library/view/data-modeling-with/9781803240282/)|
+|10. [Excel Insights](https://learning.oreilly.com/library/view/excel-insights/9781836642695/)|
+|11. [Microsoft 365 Excel: The Only App That Matters](https://learning.oreilly.com/library/view/microsoft-365-excel/9781836645535/)|
+|12. [MrExcel 2024](https://learning.oreilly.com/library/view/mrexcel-2024/9781836647676/)|
+
 
 :::
 
@@ -64,6 +69,8 @@ description: ''
 |3. [The Essential Machine Learning Foundations](https://learning.oreilly.com/course/the-essential-machine/9780137903245/)|
 |4. [Practical Linear Algebra for Data Science](https://learning.oreilly.com/library/view/practical-linear-algebra/9781098120603/)|
 |5. [Statistics Slam Dunk](https://learning.oreilly.com/library/view/statistics-slam-dunk/9781633438682/)|
+|6. [15 Math Concepts Every Data Scientist Should Know](https://learning.oreilly.com/library/view/15-math-concepts/9781837634187/)|
+
 
 :::
 
@@ -79,6 +86,7 @@ description: ''
 |3. [Data Wrangling with SQL](https://learning.oreilly.com/library/view/data-wrangling-with/9781837630028/)|
 |4. [Becoming a Data Analyst](https://learning.oreilly.com/library/view/becoming-a-data/9781805126416/)|
 |5. [The Enterprise Data Catalog](https://learning.oreilly.com/library/view/the-enterprise-data/9781492098706/)|
+|6. [Managing Data Integrity for Finance](https://learning.oreilly.com/library/view/managing-data-integrity/9781837630141/)|
 
 :::
 
@@ -125,6 +133,8 @@ description: ''
 |---|
 |1. [Hands-On Data Preprocessing in Python](https://learning.oreilly.com/library/view/hands-on-data-preprocessing/9781801072137/)|
 |2. [Pandas for Everyone](https://learning.oreilly.com/library/view/pandas-for-everyone/9780137891146/)|
+|3. [Python Polars](https://learning.oreilly.com/library/view/python-polars-the/9781098156077/)|
+|4. [Python Data Cleaning and Preparation Best Practices](https://learning.oreilly.com/library/view/python-data-cleaning/9781837634743/)|
 
 :::
 
@@ -178,6 +188,7 @@ description: ''
 |4. [Bulletproof Problem Solving](https://learning.oreilly.com/library/view/bulletproof-problem-solving/9781119553021/)|
 |5. [The Economics of Data, Analytics, and Digital Transformation](https://learning.oreilly.com/library/view/the-economics-of/9781800561410/)|
 |6. [Becoming a Data Head](https://learning.oreilly.com/library/view/becoming-a-data/9781119741749/)|
+|7. [Principles of Data Science](https://learning.oreilly.com/library/view/principles-of-data/9781837636303/)|
 
 :::
 
@@ -202,6 +213,7 @@ description: ''
 |3. [Predictive Analytics for the Modern Enterprise](https://learning.oreilly.com/library/view/predictive-analytics-for/9781098136857/)|
 |4. [Financial Analysis with ARIMA and Time Series Forecasting](https://learning.oreilly.com/course/financial-analysis-with/9781836644231/)|
 |5. [Hands-On Prescriptive Analytics](https://learning.oreilly.com/library/view/hands-on-prescriptive-analytics/9781098153168/)|
+|6. [Time Series Analysis with Python Cookbook](https://learning.oreilly.com/library/view/time-series-analysis/9781805124283/)|
 
 :::
 
@@ -297,6 +309,7 @@ description: ''
 |7. [Marketing with AI For Dummies](https://learning.oreilly.com/library/view/marketing-with-ai/9781394237197/)|
 |8. [Generative AI in Digital Marketing and E-commerce](https://learning.oreilly.com/course/unlocking-innovation/9781836207290/)|
 |9. [Machine Learning and Generative AI for Marketing](https://learning.oreilly.com/library/view/machine-learning-and/9781835889404/)|
+|10. [Practical Generative AI with ChatGPT](https://learning.oreilly.com/library/view/practical-generative-ai/9781836647850/)|
 
 :::
 
@@ -314,5 +327,6 @@ description: ''
 |6. [Google Sheets and Workspace](https://learning.oreilly.com/course/google-sheets-and/10000DIHV202223/)|
 |7. [Using Google Docs, Sheets, Slides, and Drive](https://learning.oreilly.com/course/using-google-docs/9780134176642/)|
 |8. [Microsoft Copilot for Windows 11](https://learning.oreilly.com/library/view/microsoft-copilot-for/9798868805837/)|
+|9. [Working Smarter with Microsoft Project](https://learning.oreilly.com/library/view/working-smarter-with/9781835883983/)|
 
 :::
