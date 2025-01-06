@@ -11,16 +11,3 @@ description: ''
 
 This is a place where I share some of my notes about SQL, Power BI and Python for Business Intelligence and Business Analytics.
 
-## Tools
-
-## Power BI
-
-## Data Visualization
-
-## Data Analytics
-
-## Domain Knowledge
-
-## Interview
-
-## Others
