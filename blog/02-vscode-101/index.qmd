@@ -1,5 +1,5 @@
 ---
-title: "Visual Studio Code 101"
+title: "Visual Studio Code Tips"
 subtitle: >
   Trong quá trình học tập, tôi đã từng sử dụng nhiều ứng dụng để viết lách từ viết blog cho đến viết code. Hiện nay, tôi chỉ còn sử dụng VS Code.
 author: Tuyen Kieu
@@ -15,6 +15,71 @@ code-annotations: below
 df-print: paged
 ---
 
-<p style="text-align:justify">Trong quá trình học tập, tôi đã từng sử dụng nhiều ứng dụng để viết lách từ viết blog cho đến viết code. Hiện nay, tôi chỉ còn sử dụng VS Code. Đây là một _code editor_ với nhiều extensions miễn phí có thể giúp chúng ta thực hiện các tuỳ chỉnh khi cần thiết.</p>
+<p style="text-align:justify">Trong quá trình học tập, tôi đã từng sử dụng nhiều ứng dụng để viết lách từ viết blog cho đến viết code. Hiện nay, tôi chỉ còn sử dụng VS Code. Đây là một code editor với nhiều extensions miễn phí có thể giúp chúng ta thực hiện được nhiều tuỳ chỉnh khi cần thiết.</p>
+
+### Window navigation
+
+::: {.callout}
+
+|||
+|---|---|
+| Ctrl + 0 | Di chuyển qua cửa sổ _Explorer_|
+| Ctrl + 1/2/3 | Di chuyển con trỏ qua lại giữa các cửa sổ code |
+| Ctrl + ↓/↑ | Cuộn cửa sổ nhưng không di chuyển con trỏ |
+| Ctrl + J| Hiển thị hoặc ẩn Terminal |
+
+:::
+
+### Select and edit code
+
+::: {.callout}
+
+|||
+|---|---|
+| Shift + →| Select các ký tự đơn lẻ|
+| Ctrl + →/← | Di chuyển giữa các từ - jump word |
+| Ctrl + Shift + →/←| Select từng từ đơn lẻ|
+| Ctrl + L | Select từng dòng một |
+| Ctrl + D/U | Select các từ giống từ đang được lựa chọn và ngược lại |
+| Alt + Shift + →/←| Mở rộng hoặc thu hẹp các lựa chọn|
+
+:::
+
+### Navigating to lines
+
+::: {.callout}
+
+|||
+|---|---|
+| End/Home | Di chuyển con trỏ đến cuối file hoặc đầu file |
+| Ctrl + G | Di chuyển đến dòng được chỉ định|
+| Ctrl + Shift + . | Hiển thị danh sách các đối tượng có trong file |
+
+:::
+
+### Move lines around
+
+::: {.callout}
+
+|||
+|---|---|
+| Alt + ↓/↑| Di chuyển vị trí dòng hiện tại hoặc các dòng được lựa chọn|
+
+:::
+
+### Multiple cursors
+
+::: {.callout}
+
+|||
+|---|---|
+| Ctrl + Alt + ↓/↑ | Tạo con trỏ ở nhiều dòng và edit cùng lúc|
+| Alt + chuột trái| Tạo con trỏ ở nhiều vị trí và edit cùng lúc |
+
+:::
+
+### Comment lines
+
+<p style="text-align:justify">Chúng ta sử dụng phím tắt `Ctrl + /` để chuyển dòng hiện tại hoặc các dòng được lựa chọn thành comment hoặc ngược lại.</p>
 
 ---

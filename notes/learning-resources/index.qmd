@@ -161,8 +161,7 @@ description: ''
 
 ||
 |---|
-|1. [Dave Ebbelaar](https://www.youtube.com/@daveebbelaar/videos)|
-|2. [Learning Git](https://learning.oreilly.com/library/view/learning-git/9781098133900/)|
+|1. [Learning Git](https://learning.oreilly.com/library/view/learning-git/9781098133900/)|
 
 :::
 
