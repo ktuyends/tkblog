@@ -37,6 +37,9 @@ website:
       - text: Resources
         aria-label: "Learning Resources"
         href: notes/learning-resources/index.qmd
+      - text: Certificates
+        aria-label: "My Certifications"
+        href: notes/certificate/index.qmd
       # - text: My Diary
       #   aria-label: "My Diary"
       #   href: diary/index.qmd

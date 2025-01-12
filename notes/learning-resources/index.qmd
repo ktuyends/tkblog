@@ -2,8 +2,6 @@
 title: "Learning Resources"
 subtitle: >
   This is a place where I share my curiosity about Python, Power BI and Data Analytics.
-author: Tuyen Kieu
-date: '2024-06-30'
 image: featured.jpg
 citation: false
 description: ''

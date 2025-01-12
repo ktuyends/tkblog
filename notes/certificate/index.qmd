@@ -1,0 +1,30 @@
+---
+title: "My Certifications"
+subtitle: >
+  Một chút tài sản nhỏ, mình tích lũy được sau khi quay trở lại con đường học tập.
+image: featured.jpg
+citation: false
+description: ''
+lightbox: true
+engine: knitr
+---
+
+```{css, echo = FALSE}
+figcaption {
+    text-align: center;
+}
+```
+
+<p>Dạo này, mình vô tình tham gia vào một group, thấy mọi người trong đấy chịu khó học tập ghê, làm mình cảm thấy hổ thẹn. Quay trở lại với con đường học tập, cũng không biết có thể đi được bao xa, nhưng mình sẽ thử, học tập là việc cả đời mà. Cố lên Peace ơi! </p>
+
+## HackerRank
+
+::: {layout-ncol=2}
+
+![](sql-cert-inte.png){group="hackkr" fig-align="SQL Intermediate"}
+
+![](sql-cert-adv.png){group="hackkr" fig-align="SQL Advanced"}
+
+![](sql-cert-basic.png){group="hackkr" width=0% fig-align="SQL Basic"}
+
+:::
