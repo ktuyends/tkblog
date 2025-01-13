@@ -1,0 +1,32 @@
+---
+title: 'Tìm hiểu về Business Analytics'
+subtitle: >
+  Làm quen abcxyz.....
+author: Tuyen Kieu
+date: '2025-01-13'
+image: featured.jpg
+categories:
+  - Business Intelligence
+description: ''
+filters:
+   - include-code-files
+code-annotations: below
+df-print: paged
+---
+
+## Business Analytics
+
+## Tham Khảo
+
+Nội dung của bài viết này mình tóm tắt từ các khóa học sau:
+
+::: {.callout}
+
+||
+|---|
+|1. [Introduction to Business Analytics](https://www.coursera.org/learn/introduction-to-business-analytics)|
+|2. [Business Analysis Process](https://www.coursera.org/learn/business-analysis-process/)|
+|3. [Business Analysis Fundamentals](https://www.coursera.org/learn/business-analysis-fundamentals/)|
+
+:::
+

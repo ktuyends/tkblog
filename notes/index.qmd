@@ -11,3 +11,12 @@ description: ''
 
 This is a place where I share some of my notes about SQL, Power BI and Python for Business Intelligence and Business Analytics.
 
+## 2025, I am coming back...
+
+::: {.callout}
+
+||
+|---|
+|1. [Tìm hiểu về Business Analytics](./warm-up/01-intro-ba/index.qmd)|
+
+:::

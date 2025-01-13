@@ -25,6 +25,4 @@ figcaption {
 
 ![](sql-cert-adv.png){group="hackkr" fig-align="SQL Advanced"}
 
-![](sql-cert-basic.png){group="hackkr" width=0% fig-align="SQL Basic"}
-
 :::

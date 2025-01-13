@@ -1,19 +1,13 @@
 ---
-title: "Tomorrow is another day"
+title: "Những dòng cuối năm"
 subtitle: >
-  Ngày cuối cùng của năm, học cách buông bỏ đi một vài thứ để nhường chỗ cho những điều mới. Chúng ta, suy cho cùng cũng chỉ có 24h một ngày, rất nhiều chuyện chỉ có thể bỏ ngỏ cho ngày sau... 
+  Ngày ngày cuối cùng của năm, học cách buông bỏ đi một vài thứ để nhường chỗ cho những điều mới. Chúng ta, suy cho cùng cũng chỉ có 24h một ngày, rất nhiều chuyện chỉ có thể bỏ ngỏ cho ngày sau... 
 author: Tuyen Kieu
-date: '2024-12-31'
+date: '2025-01-21'
 image: featured.jpg
 citation: false
 reference-location: margin
 description: ''
 ---
 
-<p style="text-align:justify">Hà Nội, 31/12/2024</p>
-
-<p style="text-align:justify">Hi, xin chào, mình là Tuyến. Nếu một ngày, bạn vô tình tìm thấy trang nhật ký này thì có lẽ mình đã thôi không còn viết ở đây nữa. Một phần vì mình không có nhiều thời gian như trước để suy nghĩ linh tinh, một phần mình cũng không muốn viết tiếp những bài viết nhiều màu xám như vậy.</p>
-
-<p style="text-align:justify">Ban đầu, mình đã định xóa hết tất cả những bài này, mình không muốn người khác nghĩ mình yếu đuối, nhưng cuối cùng mình chọn ẩn nó đi. Dù sao thì năm tháng dài như vậy, ai không có dăm ba ngày buồn, ai không từng có vài bước chân sai. Chỉ là có người giấu nó đi, còn mình thì viết nó ra.</p>
-
-<p style="text-align:justify">Có lẽ, một ngày nào đó mình sẽ viết lại, khi mình cảm thấy những câu chuyện đó có ý nghĩa hơn, mình cũng đã tìm thấy chính mình...</p>
+<p style="text-align:justify">Hà Nội, 21/01/2024</p>

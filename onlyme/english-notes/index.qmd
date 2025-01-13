@@ -1,0 +1,16 @@
+---
+title: "English Notes"
+subtitle: >
+  Quay trở lại với hành trình học english, có quá nhiều mông lung, không biết nên bắt đầu từ đâu, bước đi như thế nào.
+author: Tuyen Kieu
+date: '2025-01-12'
+image: featured.jpg
+citation: false
+categories:
+  - Only me
+description: ''
+---
+
+<p style="text-align:justify">Một vài ghi chép, tổng hợp lại quá trình học english những năm tuổi 30. Có quá nhiều phương pháp và luận điểm, nhưng vẫn chưa thể tìm được một hướng đi thích hợp cho bản thân, vạn sự khởi đầu nan quả thật không sai. Tôi sẽ sử dụng sách American English File từ quyển starter đến quyển 3. Nhưng học theo cách của mình.</p>
+
+## Tổng hợp ngữ pháp
