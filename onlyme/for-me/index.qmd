@@ -1,0 +1,52 @@
+---
+title: "Vài dòng nhắc bản thân"
+subtitle: >
+  Có tuổi rồi, việc phải làm thì lại quá nhiều còn bản thân thì không thể nhớ hết được, đành lưu lại ở nơi này để thực hiện dần dần. 
+author: Tuyen Kieu
+date: '2025-02-09'
+image: featured.jpg
+citation: false
+categories:
+  - To Do
+description: ''
+---
+
+## Học Tập
+
+- [ ] Tìm một phương pháp học tiếng anh 
+- [ ] Học Business Intelligence
+- [ ] Học Data Analytics
+- [ ] Chọn một domain giữa Marketing và Supply Chain
+
+## Đọc & Viết
+
+- [ ] Đổi thể loại đọc sách
+- [ ] Chọn một style viết mới
+
+## Công Việc
+
+- [ ] Tìm một công việc về Data
+- [ ] Tìm một hướng đi khác ngoài Data
+
+## Thể Thao
+
+- [ ] Rèn thói quen chạy bộ
+- [ ] Học thêm bơi khi có cơ hội
+
+## Sức Khỏe
+
+- [ ] Đi khám sức khỏe toàn diện
+- [ ] Khám TD, có nên tỉa \*\*\* không
+- [ ] Tìm một số bài tập khớp thái dương hàm
+
+## Nấu Ăn
+
+- [ ] Học cách pha nước chấm
+- [ ] Học cách nấu một số món canh
+- [ ] Học cách nấu một số món chính
+
+## Quần Áo
+
+- [ ] Mua một đế bàn là & bộ sửa quần áo
+- [ ] Thiết kế dây phơi (Móc & Dây)
+- [ ] Lên kế hoạch cho vài bộ đồ

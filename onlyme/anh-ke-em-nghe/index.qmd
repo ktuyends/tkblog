@@ -34,8 +34,4 @@ description: ''
 
 <p style="text-align:justify">Năm 2018 nhà anh chuẩn bị xây nhà ở quê. Thế là anh bắt đầu đi làm, làm được bao nhiêu anh gửi hết về nhà phụ bố mẹ. Thời gian đấy, cũng từng có hai lần có người chủ động bảo Date với anh, anh trốn, tại lúc đấy anh nghèo, cũng đang mất phương hướng. Anh lại bị lũ bạn chửi chảnh cún tiếp :))))</p>
 
-<p style="text-align:justify">Làm nhà xong, anh bị chuyển kho xuống Vũ Lăng. Ba năm ở Vũ Lăng anh gần như chỉ ở kho. Ngày đi làm, tối chơi game. Thỉnh thoảng gọi mấy thằng bạn lên tâm sự, anh còn từng bảo bọn nó chỉ có đàn ông mới mang lại hạnh phúc cho nhau...Nên là anh cũng không có thời gian để làm quen người khác.</p> 
-
-<p style="text-align:justify">Những chuyện này anh chưa từng kể với ai đâu ý, Em là người đầu tiên anh kể đấy. Em cute vậy, sao anh có thể lừa dối em được, anh chưa từng có first love là thật mà. Nghĩ lại, nhiều khi anh phải cảm ơn mấy năm Covid. Ở nhà rảnh quá, anh mới nói chuyện lại với Uyên, mới có duyên gặp được em đấy. Em biết không, năm nay điều anh thấy hạnh phúc nhất có lẽ là quen được em. Cũng cảm ơn em, vì đã đồng ý làm bạn với anh.</p>
-
-<p style="text-align:justify">Hy vọng chúng mình có thể đi cùng nhau xa hơn, anh biết mình có nhiều chỗ chưa tốt nhưng anh vẫn đang cố gắng để tốt hơn từng ngày.</p>
+<p style="text-align:justify">Làm nhà xong, anh bị chuyển kho xuống Vũ Lăng. Ba năm ở Vũ Lăng anh gần như chỉ ở kho. Ngày đi làm, tối chơi game. Thỉnh thoảng gọi mấy thằng bạn lên tâm sự, anh còn từng bảo bọn nó chỉ có đàn ông mới mang lại hạnh phúc cho nhau...</p> 

@@ -16,6 +16,12 @@ df-print: paged
 
 ## Business Analytics
 
+Data Analytics: là một vị trí mang tính kỹ thuật, tập trung vào việc thu thập, xử lý và phân tích dữ liệu.
+
+Business Analysis: là một vị trí định hướng kinh doanh dựa trên các chức năng kinh doanh (business functions) và quy trình để xác định nhu cầu và đưa ra giải pháp cho các bên liên quan.
+
+Business Analytics có thể coi là sự kết hợp giữa Data Analytics và Business Analysis: Phân tích các yêu cầu dựa trên dữ liệu, trực quan hóa dữ liệu và đưa ra các quyết định
+
 ## Tham Khảo
 
 Nội dung của bài viết này mình tóm tắt từ các khóa học sau:

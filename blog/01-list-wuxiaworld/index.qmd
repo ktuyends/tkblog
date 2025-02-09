@@ -42,11 +42,11 @@ draft: true
 |25. Thâm Không Bỉ Ngạn |1437/1437|
 |26. Thôn Phệ Tinh Không |1485/1485|
 |27. Ta Chỉ Muốn An Tĩnh Làm Cẩu Đạo Bên Trong Người |1500|
-|28. Cẩu Thả Tại Nữ Ma Đầu Bên Người Vụng Trộm Tu Luyện|1590|
+|28. Cẩu Thả Tại Nữ Ma Đầu Bên Người Vụng Trộm Tu Luyện|1622|
 |29. Thần Thoại Kỷ Nguyên, Ta Tiến Hóa Thành Hằng Tinh Cấp Cự Thú|1227|
 |30. Xích Tâm Tuần Thiên |2903|
 |31. Vạn Tướng Chi Vương|845|
 |32. Quang Âm Chi Ngoại|624|
 |33. Phổ La Chi Chủ|492|
 |34. Trận Hỏi Trường Sinh|852|
-|35. Đạp Tinh|5590|
+|35. Đạp Tinh|5592|
