@@ -18,7 +18,9 @@ description: ''
 |1. [IBM Business Intelligence (BI) Analyst Professional Certificate](https://www.coursera.org/professional-certificates/bi-analyst)|
 |2. [Tableau Business Intelligence Analyst Professional Certificate](https://www.coursera.org/professional-certificates/tableau-business-intelligence-analyst)|
 |3. [Google Business Intelligence Professional Certificate](https://www.coursera.org/professional-certificates/google-business-intelligence)|
-|4. [Generative AI for Business Intelligence](https://www.coursera.org/specializations/generative-ai-for-business-intelligence-analysts)|
+|4. [Fractal Data Science Professional Certificate](https://www.coursera.org/professional-certificates/fractal-data-science)|
+|5. [BI Foundations with SQL, ETL and Data Warehousing Specialization](https://www.coursera.org/specializations/bi-foundations-sql-etl-data-warehouse)|
+|6. [Generative AI for Business Intelligence](https://www.coursera.org/specializations/generative-ai-for-business-intelligence-analysts)|
 
 :::
 
@@ -41,16 +43,56 @@ description: ''
 
 :::
 
+
+## Business Domain
+
+::: {.callout}
+## _**Courses**_
+
+||
+|---|
+|1. [Foundations of Marketing Analytics](https://www.coursera.org/specializations/marketing-analytics)|
+|2. [Meta Marketing Analytics Professional](https://www.coursera.org/professional-certificates/facebook-marketing-analytics)|
+|3. [Unilever Digital Marketing Analyst](https://www.coursera.org/professional-certificates/unilever-digital-marketing-analyst)|
+|4. [Text Marketing Analytics Specialization](https://www.coursera.org/specializations/text-marketing-analytics)|
+|5. [Data Science for Marketing Specialization](https://www.coursera.org/specializations/datascienceformarketing)|
+|6. [Machine Learning for Marketing Specialization](https://www.coursera.org/specializations/machine-learning-for-marketing)|
+|7. [Certified Supply Chain Analyst](https://www.edx.org/certificates/professional-certificate/international-supply-chain-education-alliance-certified-supply-chain-analyst-csca)|
+|8. [Supply Chain Management MicroMasters](https://www.edx.org/masters/micromasters/mitx-supply-chain-management)|
+|9. [Supply Chain Analytics Specialization](https://www.coursera.org/specializations/supply-chain-analytics)|
+|10. [Unilever Supply Chain Data Analyst](https://www.coursera.org/professional-certificates/unilever-supply-chain-data-analyst)|
+
+:::
+
+::: {.callout}
+## _**Marketing Analytics**_
+
+||
+|---|
+|1. [Customer Analytics For Dummies](https://learning.oreilly.com/library/view/customer-analytics-for/9781118937624/)|
+|2. [Cutting Edge Marketing Analytics](https://learning.oreilly.com/library/view/cutting-edge-marketing/9780133552584/)|
+|3. [Data Analytics for Marketing](https://learning.oreilly.com/library/view/data-analytics-for/9781803241609/)|
+|4. [Predictive Marketing](https://learning.oreilly.com/library/view/predictive-marketing/9781119037361/)|
+|5. [Mastering Marketing Data Science](https://learning.oreilly.com/library/view/mastering-marketing-data/9781394258710/)|
+|6. [Data Science for Marketing Analytics](https://learning.oreilly.com/library/view/data-science-for/9781800560475/)|
+|7. [Hands-On Data Science for Marketing](https://learning.oreilly.com/library/view/hands-on-data-science/9781789346343/)|
+|8. [Fighting Churn with Data](https://learning.oreilly.com/library/view/fighting-churn-with/9781617296529/)|
+|9. [Demand Forecasting Best Practices](https://learning.oreilly.com/library/view/demand-forecasting-best/9781633438095/)|
+
+:::
+
 ## Mathematics
 
 ::: {.callout}
 
 ||
 |---|
-|1. [Principles of Data Science](https://learning.oreilly.com/library/view/principles-of-data/9781837636303/)|
-|2. [Essential Math for Data Science](https://learning.oreilly.com/library/view/essential-math-for/9781098102920/)|
-|3. [15 Math Concepts Every Data Scientist Should Know](https://learning.oreilly.com/library/view/15-math-concepts/9781837634187/)|
-|4. [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)|
+|1. [Linear Algebra for Data Science Using Python Specialization](https://www.coursera.org/specializations/linear-algebra-data-science-python)|
+|2. [Expressway to Data Science: Essential Math Specialization](https://www.coursera.org/specializations/expressway-to-data-science-essential-math)|
+|3. [Integral Calculus through Data and Modeling Specialization](https://www.coursera.org/specializations/integral-calculus-data-modeling)|
+|4. [Differential Calculus through Data and Modeling Specialization](https://www.coursera.org/specializations/differential-calculus-data-modeling)|
+|5. [Data Science Foundations: Statistical Inference Specialization](https://www.coursera.org/specializations/statistical-inference-for-data-science-applications)|
+|6. [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)|
 
 :::
 
@@ -207,38 +249,6 @@ description: ''
 
 :::
 
-## Business Domain
-
-::: {.callout}
-## _**Marketing Analytics**_
-
-||
-|---|
-|1. [Foundations of Marketing Analytics](https://www.coursera.org/specializations/marketing-analytics)|
-|2. [Meta Marketing Analytics Professional](https://www.coursera.org/professional-certificates/facebook-marketing-analytics)|
-|3. [Unilever Digital Marketing Analyst](https://www.coursera.org/professional-certificates/unilever-digital-marketing-analyst)|
-|4. [Customer Analytics For Dummies](https://learning.oreilly.com/library/view/customer-analytics-for/9781118937624/)|
-|5. [Cutting Edge Marketing Analytics](https://learning.oreilly.com/library/view/cutting-edge-marketing/9780133552584/)|
-|6. [Data Analytics for Marketing](https://learning.oreilly.com/library/view/data-analytics-for/9781803241609/)|
-|7. [Predictive Marketing](https://learning.oreilly.com/library/view/predictive-marketing/9781119037361/)|
-|8. [Mastering Marketing Data Science](https://learning.oreilly.com/library/view/mastering-marketing-data/9781394258710/)|
-|9. [Data Science for Marketing Analytics](https://learning.oreilly.com/library/view/data-science-for/9781800560475/)|
-|10. [Hands-On Data Science for Marketing](https://learning.oreilly.com/library/view/hands-on-data-science/9781789346343/)|
-|11. [Fighting Churn with Data](https://learning.oreilly.com/library/view/fighting-churn-with/9781617296529/)|
-
-:::
-
-::: {.callout}
-## _**Supply Chain Analyst**_
-
-||
-|---|
-|1. [Supply Chain Analytics Specialization](https://www.coursera.org/specializations/supply-chain-analytics)|
-|2. [Unilever Supply Chain Data Analyst](https://www.coursera.org/professional-certificates/unilever-supply-chain-data-analyst)|
-|3. [Demand Forecasting Best Practices](https://learning.oreilly.com/library/view/demand-forecasting-best/9781633438095/)|
-
-:::
-
 ## Interview
 
 ::: {.callout}
@@ -266,5 +276,6 @@ description: ''
 |5. [Google Workspace For Dummies](https://learning.oreilly.com/library/view/google-workspace-for/9781394253227/)|
 |6. [Google Sheets and Workspace](https://learning.oreilly.com/course/google-sheets-and/10000DIHV202223/)|
 |7. [Using Google Docs, Sheets, Slides, and Drive](https://learning.oreilly.com/course/using-google-docs/9780134176642/)|
+|8. [Effective Communication: Writing, Design, and Presentation Specialization](https://www.coursera.org/specializations/effective-business-communication)|
 
 :::
