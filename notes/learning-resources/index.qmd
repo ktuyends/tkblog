@@ -19,8 +19,7 @@ description: ''
 |2. [Tableau Business Intelligence Analyst Professional Certificate](https://www.coursera.org/professional-certificates/tableau-business-intelligence-analyst)|
 |3. [Google Business Intelligence Professional Certificate](https://www.coursera.org/professional-certificates/google-business-intelligence)|
 |4. [Fractal Data Science Professional Certificate](https://www.coursera.org/professional-certificates/fractal-data-science)|
-|5. [BI Foundations with SQL, ETL and Data Warehousing Specialization](https://www.coursera.org/specializations/bi-foundations-sql-etl-data-warehouse)|
-|6. [Generative AI for Business Intelligence](https://www.coursera.org/specializations/generative-ai-for-business-intelligence-analysts)|
+|5. [Generative AI for Business Intelligence](https://www.coursera.org/specializations/generative-ai-for-business-intelligence-analysts)|
 
 :::
 

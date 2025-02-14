@@ -11,12 +11,16 @@ description: ''
 
 This is a place where I share some of my notes about SQL, Power BI and Python for Business Intelligence and Business Analytics.
 
-## 2025, I am coming back...
+## Foundations
 
 ::: {.callout}
 
 ||
 |---|
-|1. [Tìm hiểu về Business Analytics](./warm-up/01-intro-ba/index.qmd)|
+|1. [Data Analytics 101](./warm-up/01-intro-da/index.qmd)|
+|2. [Khởi đầu với Excel](./warm-up/02-basic-excel/index.qmd)|
+|3. [Cơ sở dữ liệu và SQL](./warm-up/03-sql-database/index.qmd)|
+|4. [Làm quen với Python](./warm-up/04-py-pro/index.qmd)|
+|5. [Communication Skills](./warm-up/05-communication/index.qmd)|
 
 :::
