@@ -13,10 +13,11 @@ description: ''
 
 ## Học Tập
 
-- [ ] Tìm một phương pháp học tiếng anh 
+- [x] Tìm một phương pháp học tiếng anh 
 - [ ] Học Business Intelligence
 - [ ] Học Data Analytics
 - [ ] Chọn một domain giữa Marketing và Supply Chain
+- [ ] Tạo Github, Linkedin profile
 
 ## Đọc & Viết
 
@@ -50,3 +51,7 @@ description: ''
 - [ ] Mua một đế bàn là & bộ sửa quần áo
 - [ ] Thiết kế dây phơi (Móc & Dây)
 - [ ] Lên kế hoạch cho vài bộ đồ
+
+## Khác
+
+- [ ] Tìm hiểu về thiết kế nhà

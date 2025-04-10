@@ -7,6 +7,7 @@ citation: false
 description: ''
 lightbox: true
 engine: knitr
+comments: false
 ---
 
 ```{css, echo = FALSE}
