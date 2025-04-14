@@ -23,6 +23,7 @@ website:
   back-to-top-navigation: true
 
   navbar:
+    pinned: true
     logo: assets/img/avatar.png
     tools:
     - icon: github
@@ -43,6 +44,12 @@ website:
       # - text: My Diary
       #   aria-label: "My Diary"
       #   href: diary/index.qmd
+
+  sidebar:
+      title: "Notes"
+      style: "docked"
+      foreground: primary
+      contents: notes
   
   page-footer:  
     left: >-

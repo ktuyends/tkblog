@@ -46,7 +46,9 @@ draft: true
 |29. Thần Thoại Kỷ Nguyên, Ta Tiến Hóa Thành Hằng Tinh Cấp Cự Thú|1227|
 |30. Xích Tâm Tuần Thiên |2903|
 |31. Vạn Tướng Chi Vương|845|
-|32. Quang Âm Chi Ngoại|624|
-|33. Phổ La Chi Chủ|492|
-|34. Trận Hỏi Trường Sinh|852|
-|35. Đạp Tinh|5592|
+|32. Phổ La Chi Chủ|492|
+|33. Trận Hỏi Trường Sinh|852|
+|34. Đạp Tinh|5592|
+|35. Quang Âm Chi Ngoại|680|
+|36. Tinh Thần Đại Đạo|251|
+|37. Nguyên Thủy Pháp Tắc|312|

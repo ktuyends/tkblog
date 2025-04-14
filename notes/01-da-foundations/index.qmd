@@ -1,6 +1,6 @@
 ---
-title: 📚 Lecture Notes
-image: featured.jpg
+title: Data Analytics 101
+description: Một vài khái niệm cơ bản về data analytics.
 listing: 
   contents: 
     - "/*.qmd"
@@ -20,9 +20,8 @@ format:
 title-block-banner: false
 
 header-includes: >
-  <link rel="stylesheet" href="../assets/css/listing-notes.css">
+  <link rel="stylesheet" href="../../assets/css/listing-notes.css">
 resources:
-  - ../assets/css/listing-notes.css 
+  - ../../assets/css/listing-notes.css 
 ---
 
-This is a place where I share some of my notes about SQL, Power BI and Python for Business Intelligence and Business Analytics.
