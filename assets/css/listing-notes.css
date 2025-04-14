@@ -8,7 +8,8 @@
 
 /* page title  */
 #title-block-header.quarto-title-block.default .quarto-title .title {
-  font-size: 2em;
+  font-size: 2.0em;
+  font-weight: 600;
   margin: 0 0 0.25em 0;
 }
 
@@ -50,8 +51,4 @@
   font-weight: 600;
   font-size: 1.1rem;
   color:#6a2d0a;
-}
-
-.table {
-  table-layout: fixed;
 }
