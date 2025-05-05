@@ -16,7 +16,7 @@ listing:
   fields: [title, author, date, image]
   image-placeholder: sidebar.jpg
   image-align: right
-  page-size: 5
+  page-size: 6
   feed: true
 citation: false
 toc: false

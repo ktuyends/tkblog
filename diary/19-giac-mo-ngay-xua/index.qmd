@@ -1,0 +1,16 @@
+---
+title: "Giấc mơ ngày xưa"
+subtitle: >
+  Tôi rất nhớ chúng ta của năm đó, hối hả chạy đến lớp khi nghe tiếng chuông báo, ngủ gà gật trong lớp vì bài giảng nhàm chán…Nhớ những ngày đạp xe đi học ở Phương Nam, tôi với bạn thân nhau từ đó.
+author: Tuyen Kieu
+date: '2025-05-05'
+image: featured.jpg
+citation: false
+reference-location: margin
+description: ''
+---
+
+<p style="text-align:justify">Hà Nội, 05/05/2025</p>
+
+
+---
