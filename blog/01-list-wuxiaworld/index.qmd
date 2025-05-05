@@ -49,6 +49,6 @@ draft: true
 |32. Phổ La Chi Chủ|492|
 |33. Trận Hỏi Trường Sinh|852|
 |34. Đạp Tinh|5592|
-|35. Quang Âm Chi Ngoại|680|
-|36. Tinh Thần Đại Đạo|251|
-|37. Nguyên Thủy Pháp Tắc|312|
+|35. Quang Âm Chi Ngoại|1348|
+|36. Tinh Thần Đại Đạo|270|
+|37. Nguyên Thủy Pháp Tắc|355|

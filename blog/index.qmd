@@ -13,7 +13,7 @@ listing:
   categories: true
   sort-ui: false
   filter-ui: false
-  fields: [title, author, categories, date, image]
+  fields: [title, subtitle, author, categories, date, image]
   image-placeholder: sidebar.jpg
   image-align: right
   page-size: 5
